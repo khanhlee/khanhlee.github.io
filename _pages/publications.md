@@ -3,10 +3,12 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=4c7lOjIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 [\* denotes corresponding author]
 
-Do, D.T., & <b>Le, N.Q.K.</b> (2020). [Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features]. <i>Genomics, 112(3), 2445-2451.
-Nguyen, T.T.D., <b>Le, N.Q.K.</b>, Ho, Q.T., Phan, D.V., & Ou, Y.Y. (2019). [TNFPred: Identifying tumor necrosis factors using hybrid features based on word embeddings]. <i>BMC Genomics. (2018 Impact Factor 3.501, 48/162 in BIOTECHNOLOGY & APPLIED MICROBIOLOGY) [Accepted]
+[Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features].
+Do, D.T., & <b>Le, N.Q.K.</b> (2020).  <i>Genomics, 112(3), 2445-2451.
+[TNFPred: Identifying tumor necrosis factors using hybrid features based on word embeddings]. Nguyen, T.T.D., <b>Le, N.Q.K.</b>, Ho, Q.T., Phan, D.V., & Ou, Y.Y. (2019). <i>BMC Genomics. (2018 Impact Factor 3.501, 48/162 in BIOTECHNOLOGY & APPLIED MICROBIOLOGY) [Accepted]
 <b>Le, N.Q.K.</b>, Nguyen, Q.H., Chen, X., Rahardja, S., & Nguyen, B.P. (2019) [Classification of Adaptor Proteins using Recurrent Neural Networks and PSSM Profiles]. <i>BMC Genomics, 20, 966. (2018 Impact Factor 3.501, 48/162 in BIOTECHNOLOGY & APPLIED MICROBIOLOGY)
 Nguyen, Q.H., Nguyen-Vo, T.H., <b>Le, N.Q.K.</b>, Do, T. T. T., Rahardja, S., & Nguyen, B.P. (2019). [iEnhancer-ECNN: Identifying enhancers and their strength using Ensemble of Convolutional Neural Networks]. <i>BMC Genomics, 20, 951. (2018 Impact Factor 3.501, 48/162 in BIOTECHNOLOGY & APPLIED MICROBIOLOGY)
 <b>Le, N.Q.K.</b> & Huynh, T.T. (2019). [Identifying SNAREs by incorporating deep learning architecture and amino acid embedding representation]. Frontiers in Physiology, 10:1501. (2018 Impact Factor 3.201, 25/81 in PHYSIOLOGY)
