@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Le Nguyen Quoc Khanh"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor, Professional Master Program in Artificial Intelligence in Medicine, Taipei Medical University"
+  avatar           : "pic300.jpg"
+  bio              : "Assistant Professor, Taipei Medical University, Professional Master Program in Artificial Intelligence in Medicine"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "khanhlee"
   google_plus      :
   keybase          :
   instagram        :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
