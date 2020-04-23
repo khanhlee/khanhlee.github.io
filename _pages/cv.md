@@ -12,20 +12,25 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science & Engineering, Yuan Ze University, Taiwan, 2018
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science & Engineering, Yuan Ze University, Taiwan, 2014
+* B.Eng. in Information Technology, University of Dalat, 2010 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2019 - present: Assistant Professor
+  * Taipei Medical University, Taiwan
+  * TMU Professional Master Program in Artificial Intelligence in Medicine
+  * TMU Research Center for Artificial Intelligence in Medicine
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2018 - August 2019: Research Fellow
+  * Nanyang Technological University, Singapore
+  * School of Humanities
+  * Supervisor: Assistant Professor <b>Hui-Yuan Yeh</b>
+
+* September 2012 - July 2018: Research Assistant & Teaching Assistant
+  * Yuan Ze University, Taiwan
+  * Department of Computer Science & Engineering
+  * Supervisor: Associate Professor <b>Yu-Yen Ou</b>
   
 Skills
 ======
