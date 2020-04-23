@@ -2,7 +2,7 @@
 title: "Seminar"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/109-spring-teaching-3
+permalink: /teaching/109-spring-seminar
 venue: "TMU Professional Master Program in Artificial Intelligence in Medicine"
 date: 2020-01-01
 location: "Taipei, Taiwan"
