@@ -1,0 +1,20 @@
+---
+title: "Neural Networks and Application on Bioinformatics"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/109-spring-bioinformatics
+venue: "TMU College of Interdisciplinary Studies (iCollege)"
+date: 2020-01-01
+location: "Taipei, Taiwan"
+---
+
+This course will introduce the fundamentals of different neural networks and their applications. Students can learn how to implement different types of neural networks using Python programming on Keras+Tensorflow platform. Upon completion of the course, students have extensive skills with neural networks and especially their applications in bioinformatics.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
