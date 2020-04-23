@@ -13,33 +13,36 @@ Education
 ======
 * Ph.D. in Computer Science & Engineering, Yuan Ze University, Taiwan, 2018
 * M.S. in Computer Science & Engineering, Yuan Ze University, Taiwan, 2014
-* B.Eng. in Information Technology, University of Dalat, 2010 (expected)
+* B.Eng. in Information Technology, University of Dalat, 2010
 
 Work experience
 ======
 * August 2019 - present: <b>Assistant Professor</b>
-  * Taipei Medical University, Taiwan
+  * Taipei Medical University (TMU), Taiwan
   * TMU Professional Master Program in Artificial Intelligence in Medicine
   * TMU Research Center for Artificial Intelligence in Medicine
 
 * August 2018 - August 2019: <b>Research Fellow</b>
-  * Nanyang Technological University, Singapore
+  * Nanyang Technological University (NTU), Singapore
   * School of Humanities
   * Supervisor: Assistant Professor [Hui-Yuan Yeh](https://ivyhuiyuanyeh.com/about/)
 
 * September 2012 - July 2018: <b>Research Assistant & Teaching Assistant</b>
-  * Yuan Ze University, Taiwan
+  * Yuan Ze University (YZU), Taiwan
   * Department of Computer Science & Engineering
   * Supervisor: Associate Professor [Yu-Yen Ou](https://rbf.bioinfo.tw/~bio/)
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence
+  * Machine Learning
+  * Deep Learning
+  * Natural Language Processing
+* Biomedical & Healthcare Informatics
+  * Bioinformatics
+  * Computational Biology
+  * Radiogenomics
+* Multidisciplinary
 
 Publications
 ======
@@ -59,6 +62,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
