@@ -2,7 +2,7 @@
 title: "Application of Artificial Intelligence in Genomics"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/109-spring-teaching-1
+permalink: /teaching/109-spring-genomics
 venue: "TMU Professional Master Program in Artificial Intelligence in Medicine"
 date: 2020-01-01
 location: "Taipei, Taiwan"
