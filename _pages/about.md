@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)] (https://aiim.tmu.edu.tw/), Taiwan. Prior to joining TMU, I was a Research Fellow at the School of Humanities, [Nanyang Technological University](http://www.ntu.edu.sg/), Singapore.I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
+* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)] (https://aiim.tmu.edu.tw), Taiwan. Prior to joining TMU, I was a Research Fellow at the School of Humanities, [Nanyang Technological University](http://www.ntu.edu.sg), Singapore.I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
 [[Curriculum Vitae](http://khanhlee.github.io/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=4c7lOjIAAAAJ&hl=en)]
 * My research interests are Artificial Intelligence, Machine Learning, Bioinformatics, Computational Biology, Radiogenomics, and Healthcare Informatics.
 * Wellcome to my page, I wish you a nice day!
