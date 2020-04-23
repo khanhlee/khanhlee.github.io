@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (YZU)](https://aiim.tmu.edu.tw), Taiwan. Prior to joining TMU, I was a Research Fellow at the School of Humanities, [Nanyang Technological University](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
+* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)](https://aiim.tmu.edu.tw), Taiwan. Prior to joining TMU, I was a Research Fellow at the School of Humanities, [Nanyang Technological University](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
 * My research interests are Artificial Intelligence, Machine Learning, Bioinformatics, Computational Biology, Radiogenomics, and Healthcare Informatics.
 * Wellcome to my page, I wish you a nice day!
 
@@ -21,9 +21,22 @@ redirect_from:
 * January 24, 2020. The final version of our article [Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features](https://authors.elsevier.com/a/1akC53A54zVhFz) is now available online, containing full bibliographic details.
 * September 26, 2019. Our latest paper [DeepETC: A deep convolutional neural network architecture for investigating and classifying electron transport chain's complexes](https://doi.org/10.1016/j.neucom.2019.09.070) has been published in Neurocomputing.
 
+# Grants
+* <b>TMU Innovative Translational Medicine Research Project</b>
+  * Principal Investigator (PI)
+  * Title: Incorporating radiogenomics and NLP to improve the predictive performance of lung cancer recurrence
+  * 1st January 2020 - 31 December 2020
+* <b>TMU Research Grant for Newly Hired Faculty</b>
+  * Principal Investigator (PI)
+  * Title: Improving the performance of protein function prediction using NLP and deep learning
+  * 1st January 2020 - 31 December 2020
+* <b>NVIDIA GPU Grant</b>
+  * Principal Investigator (PI)
+  * October 2018
+
 # Academic Services
 * Editorial Services
-  * Associate Editorial Board Member, [Coronaviruses](https://benthamscience.com/journals/coronaviruses/)(since April, 2020)
+  * Associate Editorial Board Member, [Coronaviruses](https://benthamscience.com/journals/coronaviruses/) (since April, 2020)
   * Associate Editorial Board Member, [Current Nanotoxicity and Prevention](https://benthamscience.com/journals/current-nanotoxicity-and-prevention/) (since October, 2019)
   * Editorial Board Member, [PeerJ](https://peerj.com/) (since October 2019)
   * Editorial Board Member, [PeerJ Computer Science](https://peerj.com/computer-science/) (since October 2019)
@@ -31,7 +44,6 @@ redirect_from:
   * Editorial Board Member, [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October 2019)
   * Editorial Board Member, [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science) (since October 2019)
   * Associate Editorial Board Member, [The Open Bioinformatics Journal](https://benthamopen.com/TOBIOIJ/home/) (since August, 2019)
-  * PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020.
 * Program Committee Member
   * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: GIW/ISCB-Asia 2020, IEEE BIBM 2020, ISMCO 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
 * Reviewer
