@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 * I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)](https://aiim.tmu.edu.tw), Taiwan. I am also a member of TMU Research Center for Artificial Intelligence in Medicine which focuses on solving different biomedical problems using Artificial Intelligence (AI).
-* Prior to joining TMU, I was a Research Fellow at the School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
+* Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
 * My research interests are Artificial Intelligence, Machine Learning, Bioinformatics, Computational Biology, Radiogenomics, and Healthcare Informatics.
 * Wellcome to my page, have a nice day!
 
@@ -19,7 +19,7 @@ redirect_from:
 * September 26, 2019. Our latest paper [DeepETC: A deep convolutional neural network architecture for investigating and classifying electron transport chain's complexes](https://doi.org/10.1016/j.neucom.2019.09.070) has been published in Neurocomputing.
 
 # Grants
-* <b>TMU Innovative Translational Medicine Research Project</b>
+* <b>Higher Education Sprout Project - Ministry of Education (MOE), Taiwan</b>
   * Principal Investigator (PI)
   * Title: Incorporating radiogenomics and NLP to improve the predictive performance of lung cancer recurrence
   * 1st January 2020 - 31 December 2020
