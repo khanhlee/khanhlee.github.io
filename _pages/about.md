@@ -20,8 +20,8 @@ redirect_from:
 
 # Grants
 * <b>Taipei Medical University Hospital (TMUH), Taiwan</b>
-  * Co-Principal Investigator (PI)
-  * Title: 唾液腺閃爍攝影於阻塞性與發炎性唾液腺疾病之人工智慧輔助診斷
+  * Co-Principal Investigator (Co-PI)
+  * Title: AI-assisted sialoscintigraphic diagnosis of obstructive and inflammatory salivary gland disorders
   * 1st May 2020 - 30 April 2021
 * <b>Higher Education Sprout Project - Ministry of Education (MOE), Taiwan</b>
   * Principal Investigator (PI)
@@ -37,6 +37,7 @@ redirect_from:
 
 # Academic Services
 * <b>Editorial Services</b>
+  * Associate Editorial Board Member, [Current Chinese Science-Computer Science] (http://currentchinesescience.com/) (since May, 2020)
   * Associate Editorial Board Member, [Coronaviruses](https://benthamscience.com/journals/coronaviruses/) (since April, 2020)
   * Associate Editorial Board Member, [Current Nanotoxicity and Prevention](https://benthamscience.com/journals/current-nanotoxicity-and-prevention/) (since October, 2019)
   * Editorial Board Member, [PeerJ](https://peerj.com/) (since October 2019)
