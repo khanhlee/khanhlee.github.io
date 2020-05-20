@@ -19,6 +19,10 @@ redirect_from:
 * September 26, 2019. Our latest paper [DeepETC: A deep convolutional neural network architecture for investigating and classifying electron transport chain's complexes](https://doi.org/10.1016/j.neucom.2019.09.070) has been published in Neurocomputing.
 
 # Grants
+* <b>Taipei Medical University Hospital (TMUH), Taiwan</b>
+  * Co-Principal Investigator (PI)
+  * Title: 唾液腺閃爍攝影於阻塞性與發炎性唾液腺疾病之人工智慧輔助診斷
+  * 1st May 2020 - 30 April 2021
 * <b>Higher Education Sprout Project - Ministry of Education (MOE), Taiwan</b>
   * Principal Investigator (PI)
   * Title: Incorporating radiogenomics and NLP to improve the predictive performance of lung cancer recurrence
