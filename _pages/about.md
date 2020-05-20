@@ -22,22 +22,22 @@ redirect_from:
 * <b>Taipei Medical University Hospital (TMUH), Taiwan</b>
   * Co-Principal Investigator (Co-PI)
   * Title: AI-assisted sialoscintigraphic diagnosis of obstructive and inflammatory salivary gland disorders
-  * 1st May 2020 - 30 April 2021
+  * 1st May 2020 - 30th April 2021
 * <b>Higher Education Sprout Project - Ministry of Education (MOE), Taiwan</b>
   * Principal Investigator (PI)
   * Title: Incorporating radiogenomics and NLP to improve the predictive performance of lung cancer recurrence
-  * 1st January 2020 - 31 December 2020
+  * 1st January 2020 - 31st December 2020
 * <b>TMU Research Grant for Newly Hired Faculty</b>
   * Principal Investigator (PI)
   * Title: Improving the performance of protein function prediction using NLP and deep learning
-  * 1st January 2020 - 31 December 2020
+  * 1st January 2020 - 31st December 2020
 * <b>NVIDIA GPU Grant</b>
   * Principal Investigator (PI)
   * October 2018
 
 # Academic Services
 * <b>Editorial Services</b>
-  * Associate Editorial Board Member, [Current Chinese Science-Computer Science] (http://currentchinesescience.com/) (since May, 2020)
+  * Associate Editorial Board Member, [Current Chinese Science-Computer Science](http://currentchinesescience.com/) (since May, 2020)
   * Associate Editorial Board Member, [Coronaviruses](https://benthamscience.com/journals/coronaviruses/) (since April, 2020)
   * Associate Editorial Board Member, [Current Nanotoxicity and Prevention](https://benthamscience.com/journals/current-nanotoxicity-and-prevention/) (since October, 2019)
   * Editorial Board Member, [PeerJ](https://peerj.com/) (since October 2019)
