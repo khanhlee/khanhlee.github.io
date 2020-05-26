@@ -15,7 +15,7 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
-* May 26, 2020. Our manuscript <b>Using deep neural networks and biological sub-words to detect protein S-sulfenylation sites</b> has been accepted for publication in <i>Briefings in Bioinformatics</l>.
+* May 26, 2020. Our manuscript <b>Using deep neural networks and biological sub-words to detect protein S-sulfenylation sites</b> has been accepted for publication in <i>Briefings in Bioinformatics</i>.
 * January 24, 2020. The final version of our article [Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features](https://authors.elsevier.com/a/1akC53A54zVhFz) is now available online, containing full bibliographic details.
 * September 26, 2019. Our latest paper [DeepETC: A deep convolutional neural network architecture for investigating and classifying electron transport chain's complexes](https://doi.org/10.1016/j.neucom.2019.09.070) has been published in Neurocomputing.
 
