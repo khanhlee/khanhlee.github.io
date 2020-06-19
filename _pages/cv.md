@@ -21,6 +21,7 @@ Work experience
   * Taipei Medical University (TMU), Taiwan
   * TMU Professional Master Program in Artificial Intelligence in Medicine
   * TMU Research Center for Artificial Intelligence in Medicine
+  * International Master/Ph.D. Program in Medicine
 
 * August 2018 - August 2019: <b>Research Fellow</b>
   * Nanyang Technological University (NTU), Singapore
