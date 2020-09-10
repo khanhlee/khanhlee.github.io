@@ -15,7 +15,7 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
-* September 9, 2020. Our manuscript [XGBoost Improves Classification of MGMT Promoter Methylation Status in IDH1 Wildtype Glioblastoma](https://www.mdpi.com/journal/jpm) has been published in <i>Journal of Personalized Medicine</i> (2019 Impact Factor 4.433, 10/102 in HEALTH CARE SCIENCES & SERVICES).
+* September 9, 2020. Our manuscript [XGBoost Improves Classification of MGMT Promoter Methylation Status in IDH1 Wildtype Glioblastoma](https://www.mdpi.com/journal/jpm) has been accepted for publication in <i>Journal of Personalized Medicine</i> (2019 Impact Factor 4.433, 10/102 in HEALTH CARE SCIENCES & SERVICES).
 * July 2, 2020. Our manuscript [Using deep neural networks and biological sub-words to detect protein S-sulfenylation sites](https://doi.org/10.1093/bib/bbaa128) has been published in <i>Briefings in Bioinformatics</i> (2019 Impact Factor 8.99, 2/59 in MATHEMATICAL & COMPUTATIONAL BIOLOGY).
 * June 29, 2020. Our manuscript [Using language representation learning approach to efficiently identify protein complex categories in electron transport chain](https://doi.org/10.1002/minf.202000033) has been accepted for publication in <i>Molecular Informatics</i>.
 * January 24, 2020. The final version of our article [Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features](https://authors.elsevier.com/a/1akC53A54zVhFz) is now available online, containing full bibliographic details.
