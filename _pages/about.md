@@ -21,27 +21,6 @@ redirect_from:
 * June 29, 2020. Our manuscript [Using language representation learning approach to efficiently identify protein complex categories in electron transport chain](https://doi.org/10.1002/minf.202000033) has been accepted for publication in <i>Molecular Informatics</i>.
 * January 24, 2020. The final version of our article [Using extreme gradient boosting to identify origin of replication in Saccharomyces cerevisiae via hybrid features](https://authors.elsevier.com/a/1akC53A54zVhFz) is now available online, containing full bibliographic details.
 
-# Grants
-* <b>Ministry of Science and Technology (MOST), Taiwan</b>
-  * Co-Principal Investigator (Co-PI)
-  * Title: An artificial intelligence system for precision lung cancer based on clinical big data
-  * 1st June 2020 - 31th May 2024
-* <b>Taipei Medical University Hospital (TMUH), Taiwan</b>
-  * Co-Principal Investigator (Co-PI)
-  * Title: AI-assisted sialoscintigraphic diagnosis of obstructive and inflammatory salivary gland disorders
-  * 1st May 2020 - 30th April 2021
-* <b>Higher Education Sprout Project - Ministry of Education (MOE), Taiwan</b>
-  * Principal Investigator (PI)
-  * Title: Incorporating radiogenomics and NLP to improve the predictive performance of lung cancer recurrence
-  * 1st January 2020 - 31st December 2020
-* <b>TMU Research Grant for Newly Hired Faculty</b>
-  * Principal Investigator (PI)
-  * Title: Improving the performance of protein function prediction using NLP and deep learning
-  * 1st January 2020 - 31st December 2020
-* <b>NVIDIA GPU Grant</b>
-  * Principal Investigator (PI)
-  * October 2018
-
 # Academic Services
 * <b>Editorial Services</b>
   * Editorial Board Member, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
