@@ -24,7 +24,7 @@ redirect_from:
 
 # Academic Services
 * <b>Editorial Services</b>
-  * Editorial Board Member, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
+  * Academic Editor, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
   * Associate Editorial Board Member, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
   * Editorial Board Member, [PeerJ](https://peerj.com/) (since October 2019)
   * Editorial Board Member, [PeerJ Computer Science](https://peerj.com/computer-science/) (since October 2019)
