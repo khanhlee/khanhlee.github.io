@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)](https://aiim.tmu.edu.tw), Taiwan. I am also a joint Assistant Professor with the International Master/PhD Program in Medicine (IGPM-TMU) and TMU Research Center for Artificial Intelligence in Medicine.
+* I am currently an Assistant Professor with the Professional Master Program in Artificial Intelligence in Medicine, College of Medicine, [Taipei Medical University (TMU)](https://aiim.tmu.edu.tw), Taiwan. I am also a joint Assistant Professor with the International Master/PhD Program in Medicine (IGPM-TMU), International Ph.D. Program for Cell Therapy and Regeneration Medicine (IPCTRM-TMU) and TMU Research Center for Artificial Intelligence in Medicine.
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/index_en.html), Taiwan.
 * My research interests are Artificial Intelligence, Machine Learning, Bioinformatics, Computational Biology, Radiogenomics, and Healthcare Informatics.
 * Wellcome to my page, have a nice day!
