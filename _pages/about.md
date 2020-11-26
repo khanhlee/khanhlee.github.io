@@ -15,13 +15,15 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
+* November 26, 2020. Our manuscript <b>A computational framework based on ensemble deep neural networks for essential genes identification</b> has been accepted for publication in <i>International Journal of Molecular Sciences</i>.
 * October 15, 2020. Our manuscript <b>Improving the prediction model of head-and-neck cancers based on FDG-PET/CT images: a deep radiomics approach</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
 * October 15, 2020. Our manuscript <b>Prediction of Anterior Cruciate Ligament Injury from MRI Using Deep Learning</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
-* October 4, 2020. Our manuscript [Machine Learning Model for Identifying Antioxidant Proteins Using Features Calculated from Primary Sequences](https://doi.org/10.3390/biology9100325) has been published in <i>Biology</i>.
-* September 29, 2020. Our manuscript [Incorporating Convolutional Neural Networks and Sequence Graph Transform for Identifying Multilabel Protein Lysine PTM Sites](https://doi.org/10.1016/j.chemolab.2020.104171) has been published in <i>Chemometrics and Intelligent Laboratory Systems</i>.
-* September 9, 2020. Our manuscript [XGBoost Improves Classification of MGMT Promoter Methylation Status in IDH1 Wildtype Glioblastoma](https://www.mdpi.com/2075-4426/10/3/128/htm) has been published in <i>Journal of Personalized Medicine</i> (2019 Impact Factor 4.433, 10/102 in HEALTH CARE SCIENCES & SERVICES).
+* October 4, 2020. Our paper [Machine Learning Model for Identifying Antioxidant Proteins Using Features Calculated from Primary Sequences](https://doi.org/10.3390/biology9100325) has been published in <i>Biology</i>.
+* September 29, 2020. Our paper [Incorporating Convolutional Neural Networks and Sequence Graph Transform for Identifying Multilabel Protein Lysine PTM Sites](https://doi.org/10.1016/j.chemolab.2020.104171) has been published in <i>Chemometrics and Intelligent Laboratory Systems</i>.
+* September 9, 2020. Our paper [XGBoost Improves Classification of MGMT Promoter Methylation Status in IDH1 Wildtype Glioblastoma](https://www.mdpi.com/2075-4426/10/3/128/htm) has been published in <i>Journal of Personalized Medicine</i> (2019 Impact Factor 4.433, 10/102 in HEALTH CARE SCIENCES & SERVICES).
+<!-- This is commented out. 
 * July 2, 2020. Our manuscript [Using deep neural networks and biological sub-words to detect protein S-sulfenylation sites](https://doi.org/10.1093/bib/bbaa128) has been published in <i>Briefings in Bioinformatics</i> (2019 Impact Factor 8.99, 2/59 in MATHEMATICAL & COMPUTATIONAL BIOLOGY).
-
+-->
 # Academic Services
 * <b>Editorial Services</b>
   * Academic Editor, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
