@@ -15,7 +15,7 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
-* December 01, 2020. Our manuscript <b>A computational framework based on ensemble deep neural networks for essential genes identification</b> has been accepted for publication in <i>Medicine in Omics</i>.
+* December 01, 2020. Our manuscript <b>Identification of gene expression signatures for psoriasis classification using machine learning techniques</b> has been accepted for publication in <i>Medicine in Omics</i>.
 * November 26, 2020. Our manuscript [A computational framework based on ensemble deep neural networks for essential genes identification](https://doi.org/10.3390/ijms21239070) has been published in <i>International Journal of Molecular Sciences</i>.
 * October 15, 2020. Our manuscript <b>Improving the prediction model of head-and-neck cancers based on FDG-PET/CT images: a deep radiomics approach</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
 * October 15, 2020. Our manuscript <b>Prediction of Anterior Cruciate Ligament Injury from MRI Using Deep Learning</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
