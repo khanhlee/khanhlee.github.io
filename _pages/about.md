@@ -15,12 +15,12 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
+* January 03, 2021. Our manuscript <b>A Transformer Architecture Based on BERT and 2D Convolutional Neural Network to Identify DNA Enhancers from Sequence Information</b> has been accepted for publication in <i>Briefings in Bioinformatics</i>.
 * December 01, 2020. Our manuscript [Identification of gene expression signatures for psoriasis classification using machine learning techniques](https://doi.org/10.1016/j.meomic.2020.100001) has been published in <i>Medicine in Omics</i>.
 * November 26, 2020. Our manuscript [A computational framework based on ensemble deep neural networks for essential genes identification](https://doi.org/10.3390/ijms21239070) has been published in <i>International Journal of Molecular Sciences</i>.
 * October 15, 2020. Our manuscript <b>Improving the prediction model of head-and-neck cancers based on FDG-PET/CT images: a deep radiomics approach</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
 * October 15, 2020. Our manuscript <b>Prediction of Anterior Cruciate Ligament Injury from MRI Using Deep Learning</b> has been accepted at the [International Forum on Medical Imaging in Asia 2021 (IFMIA 2021)](https://ifmia.online/).
 * October 4, 2020. Our paper [Machine Learning Model for Identifying Antioxidant Proteins Using Features Calculated from Primary Sequences](https://doi.org/10.3390/biology9100325) has been published in <i>Biology</i>.
-* September 29, 2020. Our paper [Incorporating Convolutional Neural Networks and Sequence Graph Transform for Identifying Multilabel Protein Lysine PTM Sites](https://doi.org/10.1016/j.chemolab.2020.104171) has been published in <i>Chemometrics and Intelligent Laboratory Systems</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
