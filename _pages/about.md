@@ -25,12 +25,12 @@ redirect_from:
 # Academic Services
 * <b>Editorial Services</b>
   * Academic Editor, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
-  * Associate Editorial Board Member, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
-  * Editorial Board Member, [PeerJ](https://peerj.com/) (since October 2019)
-  * Editorial Board Member, [PeerJ Computer Science](https://peerj.com/computer-science/) (since October 2019)
-  * Editorial Board Member, [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/journals/bioengineering-and-biotechnology) (since October 2019)
-  * Editorial Board Member, [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October 2019)
-  * Editorial Board Member, [Frontiers in Plant Science](https://www.frontiersin.org/journals/plant-science) (since October 2019)
+  * Associate Editor, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
+  * Academic Editor, [PeerJ](https://peerj.com/) (since October 2019)
+  * EAcademic Editor, [PeerJ Computer Science](https://peerj.com/computer-science/) (since October 2019)
+* <b>Sesson Chair</b>
+  * 2020 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2020), 16-19 Dec, 2020, Seoul, S.Korea.
+  * The Conference of Cardiology-Geriatric, Thong Nhat Hospital, Ho Chi Minh City, Vietnam, July 2019.
 * <b>Program Committee Member</b>
   * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: GIW/ISCB-Asia 2020, IEEE BIBM 2020, ISMCO 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
 * <b>Reviewer</b>
