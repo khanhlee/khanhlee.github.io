@@ -33,7 +33,7 @@ redirect_from:
 * <b>Program Committee Member</b>
   * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, ISMCO 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
 * <b>Reviewer</b>
-  * WIREs Computational Molecular Science (Wiley), IEEE Journal of Biomedical and Health Informatics (IEEE), IEEE Access (IEEE), Scientific Reports (Nature), Molecular Therapy - Nucleic Acids (Cell Press), Molecular Genetics and Genomics (Springer), BMC Bioinformatics (BMC), PROTEOMICS (Wiley), NAR Genomics and Bioinformatics (Oxford), Computers in Biology and Medicine (Elsevier), Neurocomputing (Elsevier), International Journal of Molecular Sciences (MDPI), Current Bioinformatics (Bentham Science), etc.
+  * WIREs Computational Molecular Science (Wiley), Briefings in Bioinformatics (Oxford), IEEE Journal of Biomedical and Health Informatics (IEEE), IEEE Access (IEEE), Scientific Reports (Nature), Molecular Therapy - Nucleic Acids (Cell Press), Molecular Genetics and Genomics (Springer), BMC Bioinformatics (BMC), PROTEOMICS (Wiley), NAR Genomics and Bioinformatics (Oxford), Computers in Biology and Medicine (Elsevier), Neurocomputing (Elsevier), International Journal of Molecular Sciences (MDPI), Current Bioinformatics (Bentham Science), etc.
   * Publons profiles: [https://publons.com/a/1318253/](https://publons.com/a/1318253/)
 * <b>Award</b>
   * Top 1% of reviewers in Cross-Field 2019 (powered by Publons)
