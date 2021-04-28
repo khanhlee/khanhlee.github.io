@@ -23,6 +23,7 @@ redirect_from:
 
 # Academic Services
 * <b>Editorial Services</b>
+  * Associate Editor, [Re:GEN Open](https://home.liebertpub.com/regen) (since April, 2021)
   * Academic Editor, [PLOS ONE](https://journals.plos.org/plosone/) (since September, 2020)
   * Associate Editor, [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
   * Academic Editor, [PeerJ](https://peerj.com/) (since October 2019)
@@ -35,7 +36,7 @@ redirect_from:
 * <b>Reviewer</b>
   * WIREs Computational Molecular Science (Wiley), Briefings in Bioinformatics (Oxford), IEEE Journal of Biomedical and Health Informatics (IEEE), IEEE Access (IEEE), Scientific Reports (Nature), Molecular Therapy - Nucleic Acids (Cell Press), Molecular Genetics and Genomics (Springer), BMC Bioinformatics (BMC), PROTEOMICS (Wiley), NAR Genomics and Bioinformatics (Oxford), Computers in Biology and Medicine (Elsevier), Neurocomputing (Elsevier), International Journal of Molecular Sciences (MDPI), Current Bioinformatics (Bentham Science), etc.
   * Publons profiles: [https://publons.com/a/1318253/](https://publons.com/a/1318253/)
-* <b>Award</b>
+  
+# Award
   * Top 1% of reviewers in Cross-Field 2019 (powered by Publons)
-  * Excellent Contribution in Reviewing (Current Research in Nutrition and Food Science, November 2018)
-  * Outstanding Contribution in Reviewing (Information Processing in Agriculture, August 2018)
+  * The World’s Top 2% Scientists (by Standford University)
