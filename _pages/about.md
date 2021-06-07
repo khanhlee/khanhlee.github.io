@@ -15,8 +15,8 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
-* May 24 2021. I open an online course [Artificial Intelligence in Bioinformatics](https://www.futurelearn.com/courses/artificial-intelligence-in-bioinformatics) on FutureLearn platform. Welcome anyone who has interests to join.
-* May 05 2021. Our manuscript [A Multiparametric MRI-based Radiomics Analysis to Efficiently Classify Tumor Subregions of Glioblastoma: A Pilot Study in Machine Learning](https://doi.org/10.3390/jcm10092030) has been published in <i>Journal of Clinical Medicine</i>.
+* May 24, 2021. I officially open an online course [Artificial Intelligence in Bioinformatics](https://www.futurelearn.com/courses/artificial-intelligence-in-bioinformatics) on FutureLearn platform. Welcome anyone who has interests to join.
+* May 05, 2021. Our manuscript [A Multiparametric MRI-based Radiomics Analysis to Efficiently Classify Tumor Subregions of Glioblastoma: A Pilot Study in Machine Learning](https://doi.org/10.3390/jcm10092030) has been published in <i>Journal of Clinical Medicine</i>.
 * April 18, 2021. Our manuscript [A sequence-based prediction of Kruppel-like factors proteins using XGBoost and optimized features](https://www.sciencedirect.com/science/article/pii/S0378111921002377) has been published in <i>Gene</i>.
 * March 09, 2021. Our manuscript [Radiomics-based machine learning model for efficiently classifying transcriptome subtypes in glioblastoma patients from MRI](https://doi.org/10.1016/j.compbiomed.2021.104320) has been published in <i>Computers in Biology and Medicine</i>.
 * February 05, 2021. Our manuscript [A transformer architecture based on BERT and 2D convolutional neural network to identify DNA enhancers from sequence information](https://doi.org/10.1093/bib/bbab005) has been published in <i>Briefings in Bioinformatics</i>. (Impact Factor 8.99, 2/59 in MATHEMATICAL & COMPUTATIONAL BIOLOGY)
