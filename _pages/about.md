@@ -39,7 +39,7 @@ redirect_from:
   * Publons profiles: [https://publons.com/a/1318253/](https://publons.com/a/1318253/)
   
 # Award
-  * Excellent Research Paper Award (2021 Teacher and Student Joint Academic Research Symposium)  
+  * Excellent Research Paper Award (2021 TMU Teacher and Student Joint Academic Research Symposium)  
   * The World’s Top 2% Scientists 2020 (by Standford University)
   * Top 1% of reviewers in Cross-Field 2019 (powered by Publons)
 
