@@ -15,7 +15,7 @@ redirect_from:
 * Wellcome to my page, have a nice day!
 
 # Recent News
-* July 19, 2021. Our manuscript [Risk score generated from CT-based Radiomics signatures for overall survival prediction in Non-Small Cell Lung Cancer](https://doi.org/10.3390/cancers13143616) has been accepted for publication in <i>Cancers</i>.
+* July 19, 2021. Our manuscript [Risk Score Generated from CT-Based Radiomics Signatures for Overall Survival Prediction in Non-Small Cell Lung Cancer](https://doi.org/10.3390/cancers13143616) has been published in <i>Cancers</i>.
 * May 24, 2021. I officially open an online course [Artificial Intelligence in Bioinformatics](https://www.futurelearn.com/courses/artificial-intelligence-in-bioinformatics) on FutureLearn platform. Welcome anyone who has interests to join.
 * May 05, 2021. Our manuscript [A Multiparametric MRI-based Radiomics Analysis to Efficiently Classify Tumor Subregions of Glioblastoma: A Pilot Study in Machine Learning](https://doi.org/10.3390/jcm10092030) has been published in <i>Journal of Clinical Medicine</i>.
 * April 18, 2021. Our manuscript [A sequence-based prediction of Kruppel-like factors proteins using XGBoost and optimized features](https://www.sciencedirect.com/science/article/pii/S0378111921002377) has been published in <i>Gene</i>.
