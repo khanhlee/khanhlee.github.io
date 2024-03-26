@@ -7,7 +7,7 @@ author_profile: true
 
 ### Towards interpretable genotyping of non-small cell lung cancer: an explainable AI approach leveraging CT-based radiomics [Principal Investigator]
 * Funded by: Higher Education Sprout Project, Ministry of Education (MOE), Taiwan
-* Time: January 2023 - December 2023
+* Time: January 2023 - December 2024
 
 ### The Development and Validation of a Prediction Algorithm for First-Onset and Recurrence of Major Depression in General Population: A Genetic, Epigenetic and Drug Repurposing Approach [Co-Investigator]
 * Funded by: Higher Education Sprout Project, Ministry of Education (MOE), Taiwan
