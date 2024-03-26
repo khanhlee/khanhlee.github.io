@@ -13,7 +13,6 @@ author_profile: true
 
 ## Research assistant
 * Yi-Ting Lee (李懿庭)
-* ABCf
 
 ## Ph.D. students
 * Nguyen Mai Hanh MD, IPCTRM (Sep 2022 intake)
