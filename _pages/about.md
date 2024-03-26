@@ -30,17 +30,17 @@ redirect_from:
   * 2020 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2020), 16-19 Dec, 2020, Seoul, S.Korea.
   * The Conference of Cardiology-Geriatric, Thong Nhat Hospital, Ho Chi Minh City, Vietnam, July 2019.
 * <b>Grant Reviewer</b>
-  * Netherlands Organization for Health Research and Development (ZonMw); Dutch Research Council (NWO); National Science Center, Poland; Medical Research Council, United Kingdom.
+  * National Science and Technology Council (NSTC), Taiwan; Vienna Science and Technology Fund (WWTF), Austria; Deutsche Forschungsgemeinschaft (DFG), GermanyNetherlands Organization for Health Research and Development (ZonMw); Dutch Research Council (NWO); National Science Center, Poland; Medical Research Council, United Kingdom.
 * <b>Program Committee Member</b>
   * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: IJCAI 2024, GIW ISCB ASIA 2023, IEEE BIBM 2023, IEEE BIBM 2022, IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, ISMCO 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
 * <b>Reviewer</b>
   * Nature Communications (Nature), Nature Computational Science (Nature), WIREs Computational Molecular Science (Wiley), Bioinformatics (Oxford), Briefings in Bioinformatics (Oxford), IEEE Journal of Biomedical and Health Informatics (IEEE), IEEE Access (IEEE), Scientific Reports (Nature), Molecular Therapy (Cell Press), Molecular Therapy - Nucleic Acids (Cell Press), European Radiology (Springer), BMC Bioinformatics (BMC), PROTEOMICS (Wiley), NAR Genomics and Bioinformatics (Oxford), Computers in Biology and Medicine (Elsevier), Neurocomputing (Elsevier), eClinicalMedicine (The Lancet), etc.
   
 # Award
+  * TMU Research Paper Excellence Award 2023 (Taipei Medical University)
+  * TMU Young Scholar Research Award 2023 (Taipei Medical University)
   * Outstanding Curriculum Award for Open Education 2023 (Taiwan Open Curriculum and Education Consortium -TOCEC)
   * Creative Award (2023 H.Spectrum+)
   * Best Oral Presenter Award (20th Asia Pacific Bioinformatics Conference - APBC2022)
-  * TMU Excellent Research Paper Award 2021 (Taipei Medical University)
-  * Future Tech Awards (Taiwan FUTEX 2021) 
-  * The World’s Top 2% Scientists 2020-2021-2022 (by Standford University)
-  * Top 1% of reviewers in Cross-Field 2019 (powered by Publons)
+  * TMU Research Paper Excellent Award 2021 (Taipei Medical University)
+  * Future Tech Awards (Taiwan FUTEX 2021)
