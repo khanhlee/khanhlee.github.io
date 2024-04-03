@@ -9,7 +9,7 @@ author_profile: true
 * Welcome to our AIBioMed Lab at the Taipei Medical University, Taipei, Taiwan. Our lab contains a variety of members who are dealing with the application of Artificial Intelligence (AI) into different aspects of biomedicine including bioinformatics, genomics, radiomics, and proteomics.
 
 ## Principal Investigator
-* Le Nguyen Quoc Khanh PhD
+| ![Le Nguyen Quoc Khanh](images/pic300.jpg) | Le Nguyen Quoc Khanh PhD |
 
 ## Research assistant
 * Yi-Ting Lee (李懿庭)
