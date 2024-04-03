@@ -15,6 +15,20 @@ author_profile: true
 * Yi-Ting Lee (李懿庭)
 
 ## Ph.D. students
+<table>
+  <tr>
+    <td> <img src="/images/profile.png"  alt="1" width = 360px height = 640px ></td>
+
+    <td><img src="/images/profile.png" alt="2" width = 360px height = 640px></td>
+   </tr> 
+   <tr>
+      <td><img src="/images/profile.png" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="/images/profile.png" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
+
 | Nguyen Mai Hanh MD | Le Nguyen Binh MD | Le Huu Nhat Minh MD | Kha Quang Hien MD |
 | :------------- |:-------------:|:-----:| -----:|
 | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
