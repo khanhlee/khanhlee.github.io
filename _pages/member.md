@@ -21,7 +21,7 @@ author_profile: true
 | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
 | IPCTRM (Sep 2022 intake) | IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) |
 
-| Nguyen Thi Tuyen | Tran Nguyen Tuan Minh MD | Nguyen Thanh Huy, IGPM | Tran Thi Oanh, IPCTRM |
+| Nguyen Thi Tuyen | Tran Nguyen Tuan Minh MD | Nguyen Thanh Huy | Tran Thi Oanh |
 | :-------------: | :-------------: | :-----: | :-----: |
 | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
 | ICTU (Jul 2022 intake) | IGPM (Sep 2021 intake) | IGPM (Sep 2021 intake) | IPCTRM (Sep 2021 intake) |
@@ -32,17 +32,20 @@ author_profile: true
 | ICTU (Apr 2021 intake) | GIBI (Sep 2020 intake) |  |  |
 
 ## Master students
-* Wan-Ying Lin (林宛瑩) MD, AIIM (Sep 2023 intake)
-* Jennifer Hsieh (謝臻怡) MD, AIIM (Sep 2022 intake)
-* Lin Ning (林寧) MD, AIIM (Sep 2022 intake)
-* Luong Thi My Trang MD, IGPM (Sep 2022 intake)
+
+| Wan-Ying Lin (林宛瑩) MD | Jennifer Hsieh (謝臻怡) MD | Lin Ning (林寧) MD | Luong Thi My Trang MD |
+| :-------------: | :-------------: | :-----: | :-----: |
+| <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
+| AIIM (Sep 2023 intake) | AIIM (Sep 2022 intake) | AIIM (Sep 2022 intake) | IGPM (Sep 2022 intake) |
 
 ## Alumni
-* Dang Huy Hoang MD PhD, IPCTRM (graduated in 2024)
-* Le Viet Huan MD PhD, IGPM (graduated in 2023)
-* Luu Ho Thanh Lam MD PhD, IGPM (graduated in 2022)
-* Truong Nguyen Khanh Hung MD PhD, IGPM (graduated in 2022)
-* Randy Lin (林治毅), AIIM (graduated in 2022)
-* Lara Lin (林佩諭), AIIM (graduated in 2022)
-* Nancy Cheng (程春燕), AIIM (graduated in 2022)
-* Alaina Wang (王詩晴) MD, AIIM (graduated in 2021)
+
+| Dang Huy Hoang MD PhD | Le Viet Huan MD PhD | Luu Ho Thanh Lam MD PhD | Truong Nguyen Khanh Hung MD PhD |
+| :-------------: | :-------------: | :-----: | :-----: |
+| <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
+| IPCTRM (graduated in 2024) | IGPM (graduated in 2023) | IGPM (graduated in 2022) | IGPM (graduated in 2022) |
+
+| Randy Lin (林治毅) | Lara Lin (林佩諭) | Nancy Cheng (程春燕) | Alaina Wang (王詩晴) MD |
+| :-------------: | :-------------: | :-----: | :-----: |
+| <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
+| AIIM (graduated in 2022) | AIIM (graduated in 2022) | AIIM (graduated in 2022) | AIIM (graduated in 2021) |
