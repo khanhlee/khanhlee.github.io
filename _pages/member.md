@@ -21,14 +21,11 @@ author_profile: true
 | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
 | IPCTRM (Sep 2022 intake) | IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) |
 
-* Nguyen Mai Hanh MD, IPCTRM (Sep 2022 intake)
-* Le Nguyen Binh MD, IGPM (Sep 2022 intake)
-* Le Huu Nhat Minh MD, IGPM (Sep 2022 intake)
-* Kha Quang Hien MD, IGPM (Sep 2022 intake)
-* Nguyen Thi Tuyen, ICTU (Jul 2022 intake)
-* Tran Nguyen Tuan Minh MD, IGPM (Sep 2021 intake)
-* Nguyen Thanh Huy, IGPM (Sep 2021 intake)
-* Tran Thi Oanh, IPCTRM (Sep 2021 intake)
+| Nguyen Thi Tuyen | Tran Nguyen Tuan Minh MD | Nguyen Thanh Huy, IGPM | Tran Thi Oanh, IPCTRM |
+| :-------------: | :-------------: | :-----: | :-----: |
+| <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
+| ICTU (Jul 2022 intake) | IGPM (Sep 2021 intake) | IGPM (Sep 2021 intake) | IPCTRM (Sep 2021 intake) |
+
 * Tran Thi Xuan, ICTU (Apr 2021 intake)
 * Do Thi Duyen, GIBI (Sep 2020 intake)
 
