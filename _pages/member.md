@@ -26,8 +26,10 @@ author_profile: true
 | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
 | ICTU (Jul 2022 intake) | IGPM (Sep 2021 intake) | IGPM (Sep 2021 intake) | IPCTRM (Sep 2021 intake) |
 
-* Tran Thi Xuan, ICTU (Apr 2021 intake)
-* Do Thi Duyen, GIBI (Sep 2020 intake)
+| Tran Thi Xuan | Do Thi Duyen |
+| :-------------: | :-------------: |
+| <img align="left" src="/images/profile.png" width="200px"> | <img align="left" src="/images/profile.png" width="200px"> |
+| ICTU (Apr 2021 intake) | GIBI (Sep 2020 intake) |
 
 ## Master students
 * Wan-Ying Lin (林宛瑩) MD, AIIM (Sep 2023 intake)
