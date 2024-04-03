@@ -10,7 +10,7 @@ author_profile: true
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| ![](images/pic300.jpg)      | right-aligned | $1600 |
+| <img align="left" src="/images/pic300.jpg" width="200px" style="padding-right: 15px">      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
