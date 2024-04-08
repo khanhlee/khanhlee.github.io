@@ -28,7 +28,7 @@ author_profile: true
 
 | Tran Thi Xuan | Do Thi Duyen |  |  |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/duyen.jpeg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
 | ICTU (Apr 2021 intake) | GIBI (Sep 2020 intake) |  |  |
 
 ## Master students
