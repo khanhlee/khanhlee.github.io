@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* April 30, 2024. Our paper [Enhancing Nasopharyngeal Carcinoma Survival Prediction: Integrating Pre- and Post-Treatment MRI Radiomics with Clinical Data](https://doi.org/10.1007/s10278-024-01109-7) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 * March 06, 2024. Dr. Khanh achieved TMU 2023 Academic Research Awards: <i>Research Paper Excellence Award</i> and <i>Young Scholar Research Award</i>.
 * February 02, 2024. Our paper [Multi-Class Deep Learning Model for Detecting Pediatric Distal Forearm Fractures Based on the AO/OTA Classification](https://doi.org/10.1007/s10278-024-00968-4) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 * January 05, 2024. Congratulations to Dr. Dang Huy Hoang on passing his dissertation defense at TMU and becoming a PhD holder.
@@ -20,7 +21,6 @@ redirect_from:
 * November 03, 2023. Our paper [VF-Pred: Predicting virulence factor using sequence alignment percentage and ensemble learning models](https://doi.org/10.1016/j.compbiomed.2023.107662) has been published in <i>Computers in Biology and Medicine</i>.
 * August 31, 2023. Our paper [Sequence-based prediction model of protein crystallization propensity using machine learning and two-level feature selection](https://doi.org/10.1093/bib/bbad319) has been published in <i>Briefings in Bioinformatics</i>.
 * July 11, 2023. Congratulations to Dr. Le Viet Huan on passing his dissertation defense at TMU and becoming a PhD holder.
-* July 11, 2023. Our paper [A transfer learning approach on MRI-based radiomics signature for overall survival prediction of low-grade and high-grade gliomas](https://doi.org/10.1007/s11517-023-02875-2) has been published in <i>Medical & Biological Engineering & Computing</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
