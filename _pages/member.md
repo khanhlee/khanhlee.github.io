@@ -23,7 +23,7 @@ author_profile: true
 
 | Nguyen Thi Tuyen | Tran Nguyen Tuan Minh MD | Nguyen Thanh Huy | Tran Thi Oanh |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/huy.jpeg" width="200px"> | <img align="center" src="/images/oanh.jpg" width="200px"> |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/huy.jpeg" width="200px"> | <img align="center" src="/images/oanh.jpeg" width="200px"> |
 | ICTU (Jul 2022 intake) | IGPM (Sep 2021 intake) | IGPM (Sep 2021 intake) | IPCTRM (Sep 2021 intake) |
 
 | Tran Thi Xuan | Do Thi Duyen |  |  |
