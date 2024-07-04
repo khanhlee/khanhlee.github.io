@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* July 01, 2024. Congratulations to Dr. Tran Nguyen Tuan Minh on passing her dissertation defense at TMU and becoming a PhD holder.
 * June 03, 2024. Congratulations to Dr. Tran Thi Oanh on passing her dissertation defense at TMU and becoming a PhD holder.
 * April 30, 2024. Our paper [Enhancing Nasopharyngeal Carcinoma Survival Prediction: Integrating Pre- and Post-Treatment MRI Radiomics with Clinical Data](https://doi.org/10.1007/s10278-024-01109-7) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 * March 06, 2024. Dr. Khanh achieved TMU 2023 Academic Research Awards: <i>Research Paper Excellence Award</i> and <i>Young Scholar Research Award</i>.
@@ -20,7 +21,6 @@ redirect_from:
 * January 05, 2024. Congratulations to Dr. Dang Huy Hoang on passing his dissertation defense at TMU and becoming a PhD holder.
 * December 20, 2023. Our paper [Predicting emerging drug interactions using GNNs](https://www.nature.com/articles/s43588-023-00555-7) has been published in <i>Nature Computational Science</i>.
 * November 03, 2023. Our paper [VF-Pred: Predicting virulence factor using sequence alignment percentage and ensemble learning models](https://doi.org/10.1016/j.compbiomed.2023.107662) has been published in <i>Computers in Biology and Medicine</i>.
-* August 31, 2023. Our paper [Sequence-based prediction model of protein crystallization propensity using machine learning and two-level feature selection](https://doi.org/10.1093/bib/bbad319) has been published in <i>Briefings in Bioinformatics</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
