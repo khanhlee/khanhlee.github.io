@@ -13,7 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
-* July 01, 2024. Congratulations to Dr. Tran Nguyen Tuan Minh on passing her dissertation defense at TMU and becoming a PhD holder.
+* July 01, 2024. Congratulations to Dr. Tran Nguyen Tuan Minh on passing his dissertation defense at TMU and becoming a PhD holder.
 * June 03, 2024. Congratulations to Dr. Tran Thi Oanh on passing her dissertation defense at TMU and becoming a PhD holder.
 * April 30, 2024. Our paper [Enhancing Nasopharyngeal Carcinoma Survival Prediction: Integrating Pre- and Post-Treatment MRI Radiomics with Clinical Data](https://doi.org/10.1007/s10278-024-01109-7) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 * March 06, 2024. Dr. Khanh achieved TMU 2023 Academic Research Awards: <i>Research Paper Excellence Award</i> and <i>Young Scholar Research Award</i>.
