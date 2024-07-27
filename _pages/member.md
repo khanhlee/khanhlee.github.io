@@ -23,7 +23,7 @@ author_profile: true
 
 | Nguyen Thi Tuyen | Nguyen Thanh Huy | Tran Thi Xuan |  |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/huy.jpeg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
 | ICTU (Jul 2022 intake) | IGPM (Sep 2021 intake) | ICTU (Apr 2021 intake) |  |
 
 ## Master students
@@ -42,7 +42,7 @@ author_profile: true
 
 | Tran Thi Oanh PhD | Dang Huy Hoang MD PhD | Le Viet Huan MD PhD | Luu Ho Thanh Lam MD PhD |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/huan.jpg" width="200px"> | <img align="center" src="/images/oanh.jpg" width="200px"> |
+| <img align="center" src="/images/oanh.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/huan.jpg" width="200px"> | <img align="center" src="/images/lam.jpg" width="200px"> |
 | IPCTRM (graduated in 2024) | IPCTRM (graduated in 2024) | IGPM (graduated in 2023) | IGPM (graduated in 2022) |
 
 | Truong Nguyen Khanh Hung MD PhD | Randy Lin (林治毅) MS | Lara Lin (林佩諭) MS | Nancy Cheng (程春燕) MS |
