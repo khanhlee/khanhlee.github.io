@@ -37,12 +37,12 @@ author_profile: true
 
 | Jennifer Hsieh (謝臻怡) MD MS | Tran Nguyen Tuan Minh MD PhD | Lin Ning (林寧) MD MS | Do Thi Duyen PhD |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/duyen.jpeg" width="200px"> |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/duyen.jpg" width="200px"> |
 | AIIM (graduated in 2024) | IGPM (graduated in 2023) | AIIM (graduated in 2024) | GIBI (graduated in 2024) |
 
 | Tran Thi Oanh PhD | Dang Huy Hoang MD PhD | Le Viet Huan MD PhD | Luu Ho Thanh Lam MD PhD |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/duyen.jpeg" width="200px"> | <img align="center" src="/images/oanh.jpeg" width="200px"> |
+| <img align="center" src="/images/tuan_minh.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/huan.jpg" width="200px"> | <img align="center" src="/images/oanh.jpg" width="200px"> |
 | IPCTRM (graduated in 2024) | IPCTRM (graduated in 2024) | IGPM (graduated in 2023) | IGPM (graduated in 2022) |
 
 | Truong Nguyen Khanh Hung MD PhD | Randy Lin (林治毅) MS | Lara Lin (林佩諭) MS | Nancy Cheng (程春燕) MS |
