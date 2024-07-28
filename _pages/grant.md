@@ -5,6 +5,10 @@ permalink: /grant/
 author_profile: true
 ---
 
+### Assessment of Nutritional Deficiency Patterns and Pharmacotherapy Outcomes in Patients admitted to Emergency and Intensive Care Units [Co-Investigator]
+* Funded by: National Science and Technology Council (NSTC), Taiwan
+* Time: August 2024 - July 2027
+
 ### Towards interpretable genotyping of non-small cell lung cancer: an explainable AI approach leveraging CT-based radiomics [Principal Investigator]
 * Funded by: Higher Education Sprout Project, Ministry of Education (MOE), Taiwan
 * Time: January 2023 - December 2024
