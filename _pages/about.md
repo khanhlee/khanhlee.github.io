@@ -37,10 +37,10 @@ redirect_from:
   * Nature: Nature Communications, Nature Biomedical Engineering, Nature Computational Science, Nature Methods, Scientific Data, etc.
   * The Lancet: eClinicalMedicine, eBioMedicine, etc.
   * Cell Press: Molecular Therapy, Molecular Therapy - Nucleic Acids, etc.
-  * IEEE: IEEE Journal of Biomedical and Health Informatics, etc.
+  * IEEE: IEEE Journal of Biomedical and Health Informatics, IEEE/ACM Transactions on Computational Biology and Bioinformatics, etc.
   * Wiley: WIREs Computational Molecular science, PROTEOMICS, etc.
-  * Oxford: Bioinformatics, Briefings in Bioinformatics, NAR Genomics and Bioinformatics
-  * Elsevier: Computers in Biology and Medicine, Neurocomputing, etc.
+  * Oxford: Bioinformatics, Briefings in Bioinformatics, NAR Genomics and Bioinformatics, etc.
+  * etc.
   
 # Award
   * TMU Research Paper Excellence Award 2023 (Taipei Medical University)
