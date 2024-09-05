@@ -32,9 +32,15 @@ redirect_from:
 * <b>Grant Reviewer</b>
   * Research Foundation Flanders (FWO), Belgium; National Science and Technology Council (NSTC), Taiwan; Vienna Science and Technology Fund (WWTF), Austria; Deutsche Forschungsgemeinschaft (DFG), Germany; Netherlands Organization for Health Research and Development (ZonMw); Dutch Research Council (NWO); National Science Center, Poland; Medical Research Council, United Kingdom.
 * <b>Program Committee Member</b>
-  * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: IJCAI 2024, GIW ISCB ASIA 2023, IEEE BIBM 2023, IEEE BIBM 2022, IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, ISMCO 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
+  * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: IJCAI 2024, IEEE BIBM 2024, GIW ISCB ASIA 2023, IEEE BIBM 2023, IEEE BIBM 2022, IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, IEEE CBMS 2019, IEEE BIBE 2019, etc.
 * <b>Reviewer</b>
-  * Nature Communications (Nature), Nature Computational Science (Nature), WIREs Computational Molecular Science (Wiley), Bioinformatics (Oxford), Briefings in Bioinformatics (Oxford), IEEE Journal of Biomedical and Health Informatics (IEEE), IEEE Access (IEEE), Scientific Reports (Nature), Molecular Therapy (Cell Press), Molecular Therapy - Nucleic Acids (Cell Press), European Radiology (Springer), BMC Bioinformatics (BMC), PROTEOMICS (Wiley), NAR Genomics and Bioinformatics (Oxford), Computers in Biology and Medicine (Elsevier), Neurocomputing (Elsevier), eClinicalMedicine (The Lancet), etc.
+  * Nature: Nature Communications, Nature Biomedical Engineering, Nature Computational Science, Nature Methods, Scientific Data, etc.
+  * The Lancet: eClinicalMedicine, eBioMedicine, etc.
+  * Cell Press: Molecular Therapy, Molecular Therapy - Nucleic Acids, etc.
+  * IEEE: IEEE Journal of Biomedical and Health Informatics, etc.
+  * Wiley: WIREs Computational Molecular science, PROTEOMICS, etc.
+  * Oxford: Bioinformatics, Briefings in Bioinformatics, NAR Genomics and Bioinformatics
+  * Elsevier: Computers in Biology and Medicine, Neurocomputing, etc.
   
 # Award
   * TMU Research Paper Excellence Award 2023 (Taipei Medical University)
