@@ -35,7 +35,7 @@ author_profile: true
 
 | Nguyen Ky Phat MD | Wan-Ying Lin (林宛瑩) MD |  |  |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
 | IGPM (Sep 2024 intake) | AIIM (Sep 2023 intake) |  |  |
 
 ## Alumni
