@@ -14,29 +14,27 @@ author_profile: true
 ## Research assistant
 * Yi-Ting Lee (李懿庭)
 
-## Ph.D. students
+## Graduate students
 
-| Luong Thi My Trang MD | Bui Tien Dung MD | Lam Quang Tuan MD | Nguyen Mai Hanh MD |
+| Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | Lam Quang Tuan MD |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> |
-| IGPM (Sep 2024 intake) | IGPM (Sep 2024 intake) | DENTAL (Sep 2024 intake) | IPCTRM (Sep 2022 intake) |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| Master student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, DENTAL (Sep 2024 intake) |
 
-| Le Nguyen Binh MD | Le Huu Nhat Minh MD | Kha Quang Hien MD | Nguyen Thi Tuyen |
+| Nguyen Ky Phat | Wan-Ying Lin (林宛瑩) MD | Nguyen Mai Hanh MD | Le Nguyen Binh MD |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/binh.jpg" width="200px"> | <img align="center" src="/images/minh_le.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/tuyen.jpg" width="200px"> |
-| IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) | IGPM (Sep 2022 intake) | ICTU (Jul 2022 intake) |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/binh.jpg" width="200px"> |
+| Master student, IGPM (Sep 2024 intake) | Master student, AIIM (Sep 2023 intake) | PhD student, IPCTRM (Sep 2022 intake) | PhD student, IGPM (Sep 2022 intake) |
 
-| Nguyen Thanh Huy | Tran Thi Xuan |  |  |
+| Le Huu Nhat Minh MD | Kha Quang Hien MD | Nguyen Thi Tuyen | Nguyen Thanh Huy |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/xuan.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
-| IGPM (Sep 2021 intake) | ICTU (Apr 2021 intake) |  |  |
+| <img align="center" src="/images/minh_le.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/tuyen.jpg" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> |
+| PhD student, IGPM (Sep 2022 intake) | PhD student, IGPM (Sep 2022 intake) | PhD student, ICTU (Jul 2022 intake) | PhD student, IGPM (Sep 2021 intake) |
 
-## Master students
-
-| Nguyen Ky Phat MD | Wan-Ying Lin (林宛瑩) MD |  |  |
+| Tran Thi Xuan |  |  |  |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
-| IGPM (Sep 2024 intake) | AIIM (Sep 2023 intake) |  |  |
+| <img align="center" src="/images/xuan.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| PhD student, ICTU (Apr 2021 intake) |  |  |  |
 
 ## Alumni
 
