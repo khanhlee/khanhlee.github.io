@@ -32,7 +32,7 @@ redirect_from:
 * <b>Grant Reviewer</b>
   * Research Foundation Flanders (FWO), Belgium; National Science and Technology Council (NSTC), Taiwan; Vienna Science and Technology Fund (WWTF), Austria; Deutsche Forschungsgemeinschaft (DFG), Germany; Netherlands Organization for Health Research and Development (ZonMw); Dutch Research Council (NWO); National Science Center, Poland; Medical Research Council, United Kingdom.
 * <b>Program Committee Member</b>
-  * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: ICLR 2025, IJCAI 2024, IEEE BIBM 2024, ACML 2024, GIW ISCB ASIA 2023, IEEE BIBM 2023, IEEE BIBM 2022, IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, etc.
+  * Have been serving as a program committee member for more than 40 international conferences since 2017. List of selected conferences includes: IJCAI 2025, ICLR 2025, IJCAI 2024, IEEE BIBM 2024, ACML 2024, GIW ISCB ASIA 2023, IEEE BIBM 2023, IEEE BIBM 2022, IEEE BIBM 2021, GIW/ISCB-Asia 2020, IEEE BIBM 2020, IEEE CBMS 2020, IEEE BIBM 2019, InCoB 2019, etc.
 * <b>Reviewer</b>
   * Nature Communications, Nature Biomedical Engineering, Nature Computational Science, Nature Methods, Scientific Data, eClinicalMedicine, eBioMedicine, IEEE Journal of Biomedical and Health Informatics, etc.
   
