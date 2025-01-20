@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* January 20, 2025. Our paper [An in-depth review of AI-powered advancements in cancer drug discovery](https://doi.org/10.1016/j.bbadis.2025.167680) has been published in <i>Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease</i>.
 * November 15, 2024. Our commentary [On how SAM might help improving personalized treatments in relapsing-remitting multiple sclerosis](https://doi.org/10.1007/s00330-024-11190-9) has been published in <i>European Radiology</i>.
 * November 15, 2024. Our paper [Deep Learning-based Integrated System for Intraoperative Blood Loss Quantification in Surgical Sponges](https://doi.org/10.1109/JBHI.2024.3499852) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
 * November 06, 2024. Our paper [Development and validation of a machine learning model for predicting drug-drug interactions with oral diabetes medications](https://doi.org/10.1016/j.ymeth.2024.10.012) has been published in <i>Methods</i>.
@@ -20,7 +21,6 @@ redirect_from:
 * June 03, 2024. Congratulations to Dr. Tran Thi Oanh on passing her dissertation defense at TMU and becoming a PhD holder.
 * April 30, 2024. Our paper [Enhancing Nasopharyngeal Carcinoma Survival Prediction: Integrating Pre- and Post-Treatment MRI Radiomics with Clinical Data](https://doi.org/10.1007/s10278-024-01109-7) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 * March 06, 2024. Dr. Khanh achieved TMU 2023 Academic Research Awards: <i>Research Paper Excellence Award</i> and <i>Young Scholar Research Award</i>.
-* February 02, 2024. Our paper [Multi-Class Deep Learning Model for Detecting Pediatric Distal Forearm Fractures Based on the AO/OTA Classification](https://doi.org/10.1007/s10278-024-00968-4) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
