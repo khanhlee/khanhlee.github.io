@@ -13,18 +13,18 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* February 21, 2025. Our commentary [Unlocking RNA mysteries: Predicting subcellular localizations with AI](https://doi.org/10.1016/j.omtn.2025.102481) has been published in <i>Molecular Therapy Nucleic Acids</i>.
+* February 11, 2025. Our paper [Deep Learning Radiomics for Survival Prediction in Non-Small-Cell Lung Cancer Patients from CT Images](https://doi.org/10.1007/s10916-025-02156-5) has been published in <i>Journal of Medical Systems</i>.
 * January 20, 2025. Our paper [An in-depth review of AI-powered advancements in cancer drug discovery](https://doi.org/10.1016/j.bbadis.2025.167680) has been published in <i>Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease</i>.
 * November 15, 2024. Our commentary [On how SAM might help improving personalized treatments in relapsing-remitting multiple sclerosis](https://doi.org/10.1007/s00330-024-11190-9) has been published in <i>European Radiology</i>.
 * November 15, 2024. Our paper [Deep Learning-based Integrated System for Intraoperative Blood Loss Quantification in Surgical Sponges](https://doi.org/10.1109/JBHI.2024.3499852) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
 * November 06, 2024. Our paper [Development and validation of a machine learning model for predicting drug-drug interactions with oral diabetes medications](https://doi.org/10.1016/j.ymeth.2024.10.012) has been published in <i>Methods</i>.
 * July 01, 2024. Congratulations to Dr. Tran Nguyen Tuan Minh on passing his dissertation defense at TMU and becoming a PhD holder.
 * June 03, 2024. Congratulations to Dr. Tran Thi Oanh on passing her dissertation defense at TMU and becoming a PhD holder.
-* April 30, 2024. Our paper [Enhancing Nasopharyngeal Carcinoma Survival Prediction: Integrating Pre- and Post-Treatment MRI Radiomics with Clinical Data](https://doi.org/10.1007/s10278-024-01109-7) has been published in <i>Journal of Imaging Informatics in Medicine</i>.
-* March 06, 2024. Dr. Khanh achieved TMU 2023 Academic Research Awards: <i>Research Paper Excellence Award</i> and <i>Young Scholar Research Award</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
-  * Serving as Associate/Academic Editors for: [Science Progress](https://journals.sagepub.com/home/SCI) (since January 2025), [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (since Jun 2023), [Heliyon](https://www.cell.com/heliyon/home) (since Nov 2022), [BMC Genomics](https://bmcgenomics.biomedcentral.com/) (since September, 2022), [iMeta](https://onlinelibrary.wiley.com/journal/2770596x) (since September, 2022), [Health Science Reports](https://onlinelibrary.wiley.com/journal/23988835) (since April, 2022), [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October, 2021), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
+  * Serving as Associate/Academic Editors for: [Science Progress](https://journals.sagepub.com/home/SCI) (since January 2025), [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (since Jun 2023), [BMC Genomics](https://bmcgenomics.biomedcentral.com/) (since September, 2022), [iMeta](https://onlinelibrary.wiley.com/journal/2770596x) (since September, 2022), [Health Science Reports](https://onlinelibrary.wiley.com/journal/23988835) (since April, 2022), [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October, 2021), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
 * <b>Sesson Chair</b>
   * 8th International Conference on Bioinformatics Research and Applications (ICBRA 2021), 11-13 Sep, 2021, Berlin, Germany.
   * 2020 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2020), 16-19 Dec, 2020, Seoul, S.Korea.
