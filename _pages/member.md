@@ -11,9 +11,6 @@ author_profile: true
 ## Principal Investigator
 * Le Nguyen Quoc Khanh PhD
 
-## Research assistant
-* Yi-Ting Lee (李懿庭)
-
 ## Graduate students
 
 | Nguyen Lam Minh Tan MD | Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | 
