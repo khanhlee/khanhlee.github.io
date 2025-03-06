@@ -15,7 +15,7 @@ author_profile: true
 
 | Nguyen Lam Minh Tan MD | Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | 
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/xuan_lam.jpg" width="200px"> | <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| <img align="center" src="/images/tan.jpg" width="200px"> | <img align="center" src="/images/xuan_lam.jpg" width="200px"> | <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
 | PhD student, IGPM (Sep 2024 intake) | Master student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) |
 
 | Lam Quang Tuan MD | Nguyen Ky Phat | Wan-Ying Lin (林宛瑩) MD | Nguyen Mai Hanh MD | 
