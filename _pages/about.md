@@ -14,7 +14,7 @@ redirect_from:
 
 # Recent News
 * May 04, 2025. Our paper [Artificial intelligence in predicting EGFR mutations from whole slide images in lung Cancer: A systematic review and Meta-Analysis](https://doi.org/10.1016/j.lungcan.2025.108577) has been published in <i>Lung Cancer</i>.
-* April 10, 2025. Our paper [DMLG2Net: Molecular Global Graph Network for Drug Response Prediction in Lung Cancer Cell Lines](https://doi.org/10.1007/s10916-025-02182-3) has been published in <i>Journal of Medical Systems</i>.
+* April 10, 2025. Our paper [MLG2Net: Molecular Global Graph Network for Drug Response Prediction in Lung Cancer Cell Lines](https://doi.org/10.1007/s10916-025-02182-3) has been published in <i>Journal of Medical Systems</i>.
 * February 21, 2025. Our commentary [Unlocking RNA mysteries: Predicting subcellular localizations with AI](https://doi.org/10.1016/j.omtn.2025.102481) has been published in <i>Molecular Therapy Nucleic Acids</i>.
 * February 11, 2025. Our paper [Deep Learning Radiomics for Survival Prediction in Non-Small-Cell Lung Cancer Patients from CT Images](https://doi.org/10.1007/s10916-025-02156-5) has been published in <i>Journal of Medical Systems</i>.
 * January 20, 2025. Our paper [An in-depth review of AI-powered advancements in cancer drug discovery](https://doi.org/10.1016/j.bbadis.2025.167680) has been published in <i>Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease</i>.
