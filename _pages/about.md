@@ -37,6 +37,7 @@ redirect_from:
   * Nature Communications, Nature Biomedical Engineering, Nature Computational Science, Nature Methods, Scientific Data, eClinicalMedicine, eBioMedicine, IEEE Journal of Biomedical and Health Informatics, etc.
   
 # Award
+  * TMU Teaching Excellence Award 2024 (Taipei Medical University)
   * TMU Research Paper Excellence Award 2023 (Taipei Medical University)
   * TMU Young Scholar Research Award 2023 (Taipei Medical University)
   * Outstanding Curriculum Award for Open Education 2023 (Taiwan Open Curriculum and Education Consortium -TOCEC)
