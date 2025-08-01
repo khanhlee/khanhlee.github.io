@@ -59,12 +59,12 @@ author_profile: true
 
 | Le Viet Duy | Le Thi Phuong Thao | Pham Dang Khoa | Vo Nguyen Phat |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thao.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
 | TEEP 2025 | TEEP 2025 | TEEP 2025 | TEEP 2025 |
 
 | Le Hoang Bach Dat | Nguyen Thi Lan | Vo Thanh Hoa | Nguyen Huu Phuc Lam |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> | <img align="center" src="/images/phuc_lam.jpg" width="200px"> |
+| <img align="center" src="/images/dat.jpg" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> | <img align="center" src="/images/phuc_lam.jpg" width="200px"> |
 | IIPP 2025 | IIPP 2025 | IIPP 2024 | TEEP 2024 |
 
 | Nguyen Thanh Huy |  |  |  |
