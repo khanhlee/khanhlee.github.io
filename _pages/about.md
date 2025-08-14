@@ -13,14 +13,14 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* August 07, 2025. Our paper [AI-Driven Multi-Modal Framework for Prognostic Modeling in Glioblastoma: Enhancing Clinical Decision Support](https://doi.org/10.1016/j.compmedimag.2025.102628) has been published in <i>Computerized Medical Imaging and Graphics</i>.
 * July 23, 2025. Our paper [Evaluating YOLO for dental caries diagnosis: a systematic review and meta-analysis](https://doi.org/10.1038/s41432-025-01180-1) has been published in <i>Evidence-Based Dentistry</i>.
+* July 05, 2025. Congratulations to <b>Dr. Le Nguyen Binh</b> on successfully completing his oral defense and becoming a PhD holder.
 * May 04, 2025. Our paper [Artificial intelligence in predicting EGFR mutations from whole slide images in lung Cancer: A systematic review and Meta-Analysis](https://doi.org/10.1016/j.lungcan.2025.108577) has been published in <i>Lung Cancer</i>.
 * April 10, 2025. Our paper [MLG2Net: Molecular Global Graph Network for Drug Response Prediction in Lung Cancer Cell Lines](https://doi.org/10.1007/s10916-025-02182-3) has been published in <i>Journal of Medical Systems</i>.
 * February 21, 2025. Our commentary [Unlocking RNA mysteries: Predicting subcellular localizations with AI](https://doi.org/10.1016/j.omtn.2025.102481) has been published in <i>Molecular Therapy Nucleic Acids</i>.
 * February 11, 2025. Our paper [Deep Learning Radiomics for Survival Prediction in Non-Small-Cell Lung Cancer Patients from CT Images](https://doi.org/10.1007/s10916-025-02156-5) has been published in <i>Journal of Medical Systems</i>.
 * January 20, 2025. Our paper [An in-depth review of AI-powered advancements in cancer drug discovery](https://doi.org/10.1016/j.bbadis.2025.167680) has been published in <i>Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease</i>.
-* November 15, 2024. Our commentary [On how SAM might help improving personalized treatments in relapsing-remitting multiple sclerosis](https://doi.org/10.1007/s00330-024-11190-9) has been published in <i>European Radiology</i>.
-* November 15, 2024. Our paper [Deep Learning-based Integrated System for Intraoperative Blood Loss Quantification in Surgical Sponges](https://doi.org/10.1109/JBHI.2024.3499852) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
