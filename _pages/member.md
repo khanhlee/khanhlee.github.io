@@ -60,7 +60,7 @@ author_profile: true
 | Vo Nguyen Phat | Le Hoang Bach Dat | Nguyen Thi Lan | Vo Thanh Hoa |
 | :-------------: | :-------------: | :-----: | :-----: |
 | <img align="center" src="/images/vnphat.jpg" width="200px"> | <img align="center" src="/images/dat.jpg" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> |
-| IIPP 2025 | IIPP 2025 | IIPP 2024 |  |
+| TEEP 2025 | IIPP 2025 | IIPP 2025 | IIPP 2024 |
 
 | Nguyen Huu Phuc Lam | Nguyen Thanh Huy |  |  |
 | :-------------: | :-------------: | :-----: | :-----: |
