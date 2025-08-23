@@ -25,7 +25,7 @@ author_profile: true
 
 | Kha Quang Hien MD | Nguyen Thi Tuyen | Nguyen Thanh Huy | Tran Thi Xuan |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/.jpg" width="200px"> | <img align="center" src="/images/tuyen.jpg" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/xuan.jpg" width="200px"> |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/tuyen.jpg" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/xuan.jpg" width="200px"> |
 | PhD student, IGPM (Sep 2022 intake) | PhD student, ICTU (Jul 2022 intake) | PhD student, IGPM (Sep 2021 intake) | PhD student, ICTU (Apr 2021 intake) |
 
 ## Alumni
