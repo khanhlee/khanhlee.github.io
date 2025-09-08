@@ -52,17 +52,17 @@ author_profile: true
 
 ## Internship students
 
-| Le Tran Quoc Khanh | Le Viet Duy | Le Thi Phuong Thao | Pham Dang Khoa |
+| Nguyen Hoa Phan | Le Tran Quoc Khanh | Le Viet Duy | Le Thi Phuong Thao |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thao.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| <img align="center" src="/images/phan.jpg" width="200px"> | <img align="center" src="/images/khanhle.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thao.jpg" width="200px"> |
 | TEEP 2025 | TEEP 2025 | TEEP 2025 | TEEP 2025 |
 
-| Vo Nguyen Phat | Le Hoang Bach Dat | Nguyen Thi Lan | Vo Thanh Hoa |
+| Pham Dang Khoa | Vo Nguyen Phat | Le Hoang Bach Dat | Nguyen Thi Lan |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/vnphat.jpg" width="200px"> | <img align="center" src="/images/dat.jpg" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> |
-| TEEP 2025 | IIPP 2025 | IIPP 2025 | IIPP 2024 |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/vnphat.jpg" width="200px"> | <img align="center" src="/images/dat.jpg" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> |
+| TEEP 2025 | TEEP 2025 | IIPP 2025 | IIPP 2025 |
 
-| Nguyen Huu Phuc Lam | Nguyen Thanh Huy |  |  |
+| Vo Thanh Hoa | Nguyen Huu Phuc Lam | Nguyen Thanh Huy |  |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/phuc_lam.jpg" width="200px"> | <img align="center" src="/images/thanh_huy.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
-| TEEP 2024 | IIPP 2023 |  |  |
+| <img align="center" src="/images/thanh_hoa.jpg" width="200px"> | <img align="center" src="/images/phuc_lam.jpg" width="200px"> | <img align="center" src="/images/thanh_huy.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| IIPP 2024 | TEEP 2024 | IIPP 2023 |  |
