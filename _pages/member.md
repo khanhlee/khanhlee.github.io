@@ -15,7 +15,7 @@ author_profile: true
 
 | Ly Kim Ngan MD | Nguyen Tan Dat MD | Phung Minh Thu MD | Nguyen Lam Minh Tan MD | 
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thu.jpg" width="200px"> | <img align="center" src="/images/tan.jpg" width="200px"> |
+| <img align="center" src="/images/ngan.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thu.jpg" width="200px"> | <img align="center" src="/images/tan.jpg" width="200px"> |
 | PhD student, IGPM (Sep 2025 intake) | PhD student, IGPM (Sep 2025 intake) | Master student, IGPM (Sep 2025 intake) | PhD student, IGPM (Sep 2024 intake) |
 
 | Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | Lam Quang Tuan MD | 
