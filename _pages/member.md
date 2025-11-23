@@ -70,4 +70,4 @@ author_profile: true
 | Nguyen Thi Lan | Vo Thanh Hoa | Nguyen Huu Phuc Lam | Nguyen Thanh Huy |
 | :-------------: | :-------------: | :-----: | :-----: |
 | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> | <img align="center" src="/images/phuc_lam.jpg" width="200px"> | <img align="center" src="/images/thanh_huy.jpg" width="200px"> |
-| IIPP 2025 | IIPP 2024 | TEEP 2023 | IIPP 2023 |
+| IIPP 2025 | IIPP 2024 | TEEP 2024 | IIPP 2023 |
