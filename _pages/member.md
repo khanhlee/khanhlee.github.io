@@ -13,25 +13,25 @@ author_profile: true
 
 ## Graduate students
 
-| Ly Kim Ngan MD | Nguyen Tan Dat MD | Phung Minh Thu MD | Nguyen Lam Minh Tan MD | 
+| 李承恩 (Wayne) | Ly Kim Ngan MD | Nguyen Tan Dat MD | Phung Minh Thu MD | 
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/ngan.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thu.jpg" width="200px"> | <img align="center" src="/images/tan.jpg" width="200px"> |
-| PhD student, IGPM (Sep 2025 intake) | PhD student, IGPM (Sep 2025 intake) | Master student, IGPM (Sep 2025 intake) | PhD student, IGPM (Sep 2024 intake) |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/ngan.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thu.jpg" width="200px"> |
+| Master student, AIIM (Sep 2025 intake) | PhD student, IGPM (Sep 2025 intake) | PhD student, IGPM (Sep 2025 intake) | Master student, IGPM (Sep 2025 intake) |
 
-| Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | Lam Quang Tuan MD | 
+| Nguyen Lam Minh Tan MD | Bui Xuan Lam MD | Luong Thi My Trang MD | Bui Tien Dung MD | 
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/xuan_lam.jpg" width="200px"> | <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/tuan.jpg" width="200px"> |
-| Master student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, DENTAL (Sep 2024 intake) |
+| <img align="center" src="/images/tan.jpg" width="200px"> | <img align="center" src="/images/xuan_lam.jpg" width="200px"> | <img align="center" src="/images/mytrang.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| PhD student, IGPM (Sep 2024 intake) | Master student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) | PhD student, IGPM (Sep 2024 intake) |
 
-| Nguyen Ky Phat | Nguyen Mai Hanh MD | Le Huu Nhat Minh MD | Kha Quang Hien MD | 
+| Lam Quang Tuan MD | Nguyen Ky Phat | Nguyen Mai Hanh MD | Le Huu Nhat Minh MD | 
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/phat.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/minh_le.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
-| Master student, IGPM (Sep 2024 intake) | PhD student, IPCTRM (Sep 2022 intake) | PhD student, IGPM (Sep 2022 intake) | PhD student, IGPM (Sep 2022 intake) |
+| <img align="center" src="/images/tuan.jpg" width="200px"> | <img align="center" src="/images/phat.jpg" width="200px"> | <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/minh_le.jpg" width="200px"> |
+| PhD student, DENTAL (Sep 2024 intake) | Master student, IGPM (Sep 2024 intake) | PhD student, IPCTRM (Sep 2022 intake) | PhD student, IGPM (Sep 2022 intake) |
 
-| Nguyen Thi Tuyen | Nguyen Thanh Huy | Tran Thi Xuan |  |
+| Kha Quang Hien MD | Nguyen Thi Tuyen | Nguyen Thanh Huy | Tran Thi Xuan |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/tuyen.jpg" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/xuan.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
-| PhD student, ICTU (Jul 2022 intake) | PhD student, IGPM (Sep 2021 intake) | PhD student, ICTU (Apr 2021 intake) |  |
+| <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/tuyen.jpg" width="200px"> | <img align="center" src="/images/huy.jpg" width="200px"> | <img align="center" src="/images/xuan.jpg" width="200px"> |
+| PhD student, IGPM (Sep 2022 intake) | PhD student, ICTU (Jul 2022 intake) | PhD student, IGPM (Sep 2021 intake) | PhD student, ICTU (Apr 2021 intake) |
 
 ## Alumni
 
@@ -57,17 +57,22 @@ author_profile: true
 
 ## Internship students
 
-| Bui Quynh Anh | Nguyen Hoa Phan | Le Tran Quoc Khanh | Le Viet Duy |
+| Phan Phung Nghi | Nguyen Hoa Phan | Le Tran Quoc Khanh | Le Viet Duy |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/quynhanh.jpg" width="200px"> | <img align="center" src="/images/phan.jpg" width="200px"> | <img align="center" src="/images/khanhle.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| <img align="center" src="/images/female.png" width="200px"> | <img align="center" src="/images/phan.jpg" width="200px"> | <img align="center" src="/images/khanhle.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
 | TEEP 2025 | TEEP 2025 | TEEP 2025 | TEEP 2025 |
 
-| Le Thi Phuong Thao | Pham Dang Khoa | Vo Nguyen Phat | Le Hoang Bach Dat |
+| Bui Quynh Anh | Huynh Tan Phat | Le Thi Phuong Thao | Pham Dang Khoa |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/thao.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/vnphat.jpg" width="200px"> | <img align="center" src="/images/dat.jpg" width="200px"> |
-| TEEP 2025 | TEEP 2025 | TEEP 2025 | IIPP 2025 |
+| <img align="center" src="/images/quynhanh.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> | <img align="center" src="/images/thao.jpg" width="200px"> | <img align="center" src="/images/male.png" width="200px"> |
+| TEEP 2025 | TEEP 2025 | TEEP 2025 | TEEP 2025 |
 
-| Nguyen Thi Lan | Vo Thanh Hoa | Nguyen Huu Phuc Lam | Nguyen Thanh Huy |
+| Vo Nguyen Phat | Le Hoang Bach Dat | Nguyen Thi Lan | Vo Thanh Hoa |
 | :-------------: | :-------------: | :-----: | :-----: |
-| <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> | <img align="center" src="/images/phuc_lam.jpg" width="200px"> | <img align="center" src="/images/thanh_huy.jpg" width="200px"> |
-| IIPP 2025 | IIPP 2024 | TEEP 2024 | IIPP 2023 |
+| <img align="center" src="/images/vnphat.jpg" width="200px"> | <img align="center" src="/images/dat.jpg" width="200px"> | <img align="center" src="/images/lan.jpg" width="200px"> | <img align="center" src="/images/thanh_hoa.jpg" width="200px"> |
+| TEEP 2025 | IIPP 2025 | IIPP 2025 | IIPP 2024 |
+
+| Nguyen Huu Phuc Lam | Nguyen Thanh Huy |  |  |
+| :-------------: | :-------------: | :-----: | :-----: |
+| <img align="center" src="/images/phuc_lam.jpg" width="200px"> | <img align="center" src="/images/thanh_huy.jpg" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> | <img align="center" src="/images/profile.png" width="200px"> |
+| TEEP 2024 | IIPP 2023 |  |  |
