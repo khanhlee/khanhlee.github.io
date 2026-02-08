@@ -5,8 +5,8 @@ permalink: /member/
 author_profile: true
 ---
 
-# AIBioMed
-* Welcome to our AIBioMed Lab at the Taipei Medical University, Taipei, Taiwan. Our lab contains a variety of members who are dealing with the application of Artificial Intelligence (AI) into different aspects of biomedicine including bioinformatics, genomics, radiomics, and proteomics.
+# AIBioMed Research Group
+* The AIBioMed Research Group develops clinically grounded AI systems by integrating medical expertise with advanced machine learning. Our team of clinicians, biomedical scientists, and AI researchers co-design solutions across medical imaging, genomics, and multi-omics data to enable precise diagnosis, prognosis, and personalized treatment. We aim to translate AI innovations from research into real-world healthcare impact.
 
 ## Principal Investigator
 * Le Nguyen Quoc Khanh PhD
