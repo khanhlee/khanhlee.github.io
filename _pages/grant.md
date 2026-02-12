@@ -9,6 +9,10 @@ author_profile: true
 * Funded by: National Science and Technology Council (NSTC), Taiwan
 * Time: August 2025 - July 2026
 
+### A Microbial Insights and Stool Imaging Approach to the Interplay Between Gastrointestinal Discomforts and Sleep Disturbances in Children: A Pathway to Personalized Pediatric Care [Co-Investigator]
+* Funded by: National Science and Technology Council (NSTC), Taiwan
+* Time: August 2025 - July 2026
+
 ### Assessment of Nutritional Deficiency Patterns and Pharmacotherapy Outcomes in Patients admitted to Emergency and Intensive Care Units [Co-Investigator]
 * Funded by: National Science and Technology Council (NSTC), Taiwan
 * Time: August 2024 - July 2027
