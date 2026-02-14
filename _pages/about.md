@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* February 12, 2026. Our paper [C5aR1 and cGAS/STING, and their possible involvement in radiosensitivity of colorectal cancer](https://doi.org/10.1016/j.isci.2026.115009) has been published in <i>iScience</i>.
 * December 22, 2025. Congratulations to <b>Dr. Tran Thi Xuan</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 18, 2025. Congratulations to <b>Dr. Nguyen Mai Hanh</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 11, 2025. Congratulations to <b>Dr. Le Huu Nhat Minh</b> on successfully completing his oral defense and becoming a PhD holder.
@@ -20,7 +21,6 @@ redirect_from:
 * August 07, 2025. Our paper [AI-Driven Multi-Modal Framework for Prognostic Modeling in Glioblastoma: Enhancing Clinical Decision Support](https://doi.org/10.1016/j.compmedimag.2025.102628) has been published in <i>Computerized Medical Imaging and Graphics</i>.
 * July 23, 2025. Our paper [Evaluating YOLO for dental caries diagnosis: a systematic review and meta-analysis](https://doi.org/10.1038/s41432-025-01180-1) has been published in <i>Evidence-Based Dentistry</i>.
 * July 05, 2025. Congratulations to <b>Dr. Le Nguyen Binh</b> on successfully completing his oral defense and becoming a PhD holder.
-* May 04, 2025. Our paper [Artificial intelligence in predicting EGFR mutations from whole slide images in lung Cancer: A systematic review and Meta-Analysis](https://doi.org/10.1016/j.lungcan.2025.108577) has been published in <i>Lung Cancer</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
