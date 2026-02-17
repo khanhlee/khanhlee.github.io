@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* February 16, 2026. Our paper [EPINTLM: enhancer–promoter prediction with pretrained k-mer embeddings and residual cross-attention](https://doi.org/10.1093/bib/bbag064) has been published in <i>Briefings in Bioinformatics</i>.
 * February 12, 2026. Our paper [C5aR1 and cGAS/STING, and their possible involvement in radiosensitivity of colorectal cancer](https://doi.org/10.1016/j.isci.2026.115009) has been published in <i>iScience</i>.
 * December 24, 2025. Our paper [Translational deep learning models for risk stratification to predict prognosis and immunotherapy response in gastric cancer using digital pathology](https://doi.org/10.1186/s12967-025-07416-z) has been published in <i>Journal of Translational Medicine</i>.
 * December 22, 2025. Congratulations to <b>Dr. Tran Thi Xuan</b> on successfully completing his oral defense and becoming a PhD holder.
@@ -20,7 +21,6 @@ redirect_from:
 * December 11, 2025. Congratulations to <b>Dr. Le Huu Nhat Minh</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 10, 2025. Our paper [OASIS-Net: An Obstetric Adversarial Semi-Supervised Image Segmentation Network for Cervical and Fetal Head Ultrasound Imaging](https://doi.org/10.1109/JBHI.2025.3631102) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
 * August 07, 2025. Our paper [AI-Driven Multi-Modal Framework for Prognostic Modeling in Glioblastoma: Enhancing Clinical Decision Support](https://doi.org/10.1016/j.compmedimag.2025.102628) has been published in <i>Computerized Medical Imaging and Graphics</i>.
-* July 23, 2025. Our paper [Evaluating YOLO for dental caries diagnosis: a systematic review and meta-analysis](https://doi.org/10.1038/s41432-025-01180-1) has been published in <i>Evidence-Based Dentistry</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
