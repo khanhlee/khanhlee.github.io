@@ -13,6 +13,7 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* March 11, 2026. Our paper [A CT radiomics signature enables risk stratification and survival prediction in colorectal liver metastases](https://doi.org/10.1088/1361-6560/ae4c14) has been published in <i>Physics in Medicine & Biology</i>.
 * February 16, 2026. Our paper [EPINTLM: enhancer–promoter prediction with pretrained k-mer embeddings and residual cross-attention](https://doi.org/10.1093/bib/bbag064) has been published in <i>Briefings in Bioinformatics</i>.
 * February 12, 2026. Our paper [C5aR1 and cGAS/STING, and their possible involvement in radiosensitivity of colorectal cancer](https://doi.org/10.1016/j.isci.2026.115009) has been published in <i>iScience</i>.
 * December 24, 2025. Our paper [Translational deep learning models for risk stratification to predict prognosis and immunotherapy response in gastric cancer using digital pathology](https://doi.org/10.1186/s12967-025-07416-z) has been published in <i>Journal of Translational Medicine</i>.
@@ -20,11 +21,10 @@ redirect_from:
 * December 18, 2025. Congratulations to <b>Dr. Nguyen Mai Hanh</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 11, 2025. Congratulations to <b>Dr. Le Huu Nhat Minh</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 10, 2025. Our paper [OASIS-Net: An Obstetric Adversarial Semi-Supervised Image Segmentation Network for Cervical and Fetal Head Ultrasound Imaging](https://doi.org/10.1109/JBHI.2025.3631102) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
-* August 07, 2025. Our paper [AI-Driven Multi-Modal Framework for Prognostic Modeling in Glioblastoma: Enhancing Clinical Decision Support](https://doi.org/10.1016/j.compmedimag.2025.102628) has been published in <i>Computerized Medical Imaging and Graphics</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
-  * Serving as Associate/Academic Editors for: [JMIRx Med](https://xmed.jmir.org/) (since February 2025), [Science Progress](https://journals.sagepub.com/home/SCI) (since January 2025), [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (since Jun 2023), [BMC Genomics](https://bmcgenomics.biomedcentral.com/) (since September, 2022), [iMeta](https://onlinelibrary.wiley.com/journal/2770596x) (since September, 2022), [Health Science Reports](https://onlinelibrary.wiley.com/journal/23988835) (since April, 2022), [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October, 2021), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
+  * Serving as Associate/Academic Editors for: [Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278/editorial-board) (since March 2026), [JMIRx Med](https://xmed.jmir.org/) (since February 2025), [Science Progress](https://journals.sagepub.com/home/SCI) (since January 2025), [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (since Jun 2023), [BMC Genomics](https://bmcgenomics.biomedcentral.com/) (since September, 2022), [iMeta](https://onlinelibrary.wiley.com/journal/2770596x) (since September, 2022), [Health Science Reports](https://onlinelibrary.wiley.com/journal/23988835) (since April, 2022), [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October, 2021), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
 * <b>Sesson Chair</b>
   * 8th International Conference on Sensors, Signal and Image Processing (SSIP 2025), 28–30 Nov, 2025, Kobe, Japan.
   * 8th International Conference on Bioinformatics Research and Applications (ICBRA 2021), 11-13 Sep, 2021, Berlin, Germany.
