@@ -274,6 +274,12 @@ The AIBioMed Research Group develops clinically grounded AI systems by integrati
 <div class="member-grid">
 
   <div class="member-card">
+    <img src="/images/male.png" alt="Le Ba Tung Duong">
+    <div class="member-name">Le Ba Tung Duong</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
     <img src="/images/uyen.jpg" alt="Huynh Khoi Minh Uyen">
     <div class="member-name">Huynh Khoi Minh Uyen</div>
     <div class="member-role">TEEP 2026</div>
