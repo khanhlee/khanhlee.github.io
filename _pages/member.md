@@ -76,6 +76,18 @@ The AIBioMed Research Group develops clinically grounded AI systems by integrati
 <div class="member-grid">
 
   <div class="member-card">
+    <img src="/images/male.png" alt="治衡 (Harry)">
+    <div class="member-name">吳治衡 (Harry)</div>
+    <div class="member-role">Master student, AIIM (Feb 2026 intake)</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/male.png" alt="陳冠文 MD">
+    <div class="member-name">陳冠文 MD</div>
+    <div class="member-role">PhD student, GICM (Jan 2026 intake)</div>
+  </div>
+  
+  <div class="member-card">
     <img src="/images/male.png" alt="李承恩 (Wayne)">
     <div class="member-name">李承恩 (Wayne)</div>
     <div class="member-role">Master student, AIIM (Sep 2025 intake)</div>
