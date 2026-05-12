@@ -13,14 +13,14 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* May 12, 2026. Our paper [RIMGOGraph: integrating AlphaFold-derived residue interaction graphs and protein language embeddings for structure-informed protein function prediction](https://doi.org/10.1016/j.ijbiomac.2026.152509) has been published in <i>International Journal of Biological Macromolecules</i>.
+* May 11, 2026. Our paper [Toward trustworthy artificial intelligence in multi-omics: a review of reproducibility, stability, and interpretability](https://doi.org/10.1093/bib/bbag227) has been published in <i>Briefings in Bioinformatics</i>.
 * March 11, 2026. Our paper [A CT radiomics signature enables risk stratification and survival prediction in colorectal liver metastases](https://doi.org/10.1088/1361-6560/ae4c14) has been published in <i>Physics in Medicine & Biology</i>.
 * February 16, 2026. Our paper [EPINTLM: enhancer–promoter prediction with pretrained k-mer embeddings and residual cross-attention](https://doi.org/10.1093/bib/bbag064) has been published in <i>Briefings in Bioinformatics</i>.
 * February 12, 2026. Our paper [C5aR1 and cGAS/STING, and their possible involvement in radiosensitivity of colorectal cancer](https://doi.org/10.1016/j.isci.2026.115009) has been published in <i>iScience</i>.
 * December 24, 2025. Our paper [Translational deep learning models for risk stratification to predict prognosis and immunotherapy response in gastric cancer using digital pathology](https://doi.org/10.1186/s12967-025-07416-z) has been published in <i>Journal of Translational Medicine</i>.
 * December 22, 2025. Congratulations to <b>Dr. Tran Thi Xuan</b> on successfully completing his oral defense and becoming a PhD holder.
 * December 18, 2025. Congratulations to <b>Dr. Nguyen Mai Hanh</b> on successfully completing his oral defense and becoming a PhD holder.
-* December 11, 2025. Congratulations to <b>Dr. Le Huu Nhat Minh</b> on successfully completing his oral defense and becoming a PhD holder.
-* December 10, 2025. Our paper [OASIS-Net: An Obstetric Adversarial Semi-Supervised Image Segmentation Network for Cervical and Fetal Head Ultrasound Imaging](https://doi.org/10.1109/JBHI.2025.3631102) has been published in <i>IEEE Journal of Biomedical and Health Informatics</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
