@@ -63,11 +63,11 @@ author_profile: true
 }
 </style>
 
-# AIBioMed Research Group
+# TMU AIBioMed Lab
 
-The AIBioMed Research Group develops clinically grounded AI systems by integrating medical expertise with advanced machine learning. Our team of clinicians, biomedical scientists, and AI researchers co-design solutions across medical imaging, genomics, and multi-omics data to enable precise diagnosis, prognosis, and personalized treatment. We aim to translate AI innovations from research into real-world healthcare impact.
+TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical expertise with advanced machine learning. Our team of clinicians, biomedical scientists, and AI researchers co-design solutions across medical imaging, genomics, and multi-omics data to enable precise diagnosis, prognosis, and personalized treatment. We aim to translate AI innovations from research into real-world healthcare impact.
 
-## Principal Investigator
+## Director
 
 <div class="pi-name">Le Nguyen Quoc Khanh PhD</div>
 
