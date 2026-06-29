@@ -76,7 +76,7 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="/images/male.png" alt="治衡 (Harry)">
+    <img src="/images/harry.jpg" alt="治衡 (Harry)">
     <div class="member-name">吳治衡 (Harry)</div>
     <div class="member-role">Master student, AIIM (Feb 2026 intake)</div>
   </div>
