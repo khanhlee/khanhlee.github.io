@@ -88,7 +88,7 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
   </div>
   
   <div class="member-card">
-    <img src="/images/male.png" alt="李承恩 (Wayne)">
+    <img src="/images/wayne.jpg" alt="李承恩 (Wayne)">
     <div class="member-name">李承恩 (Wayne)</div>
     <div class="member-role">Master student, AIIM (Sep 2025 intake)</div>
   </div>
