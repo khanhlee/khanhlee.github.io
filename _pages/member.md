@@ -286,6 +286,24 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 <div class="member-grid">
 
   <div class="member-card">
+    <img src="/images/male.png" alt="Tran Quang Tiep">
+    <div class="member-name">Tran Quang Tiep</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/huyen.JPG" alt="Nguyen Ngoc Huyen">
+    <div class="member-name">Nguyen Ngoc Huyen</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/khoa.jpg" alt="Giang Vinh Khoa">
+    <div class="member-name">Giang Vinh Khoa</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
     <img src="/images/bao_khanh.jpg" alt="Tran Bao Khanh">
     <div class="member-name">Tran Bao Khanh</div>
     <div class="member-role">TEEP 2026</div>
