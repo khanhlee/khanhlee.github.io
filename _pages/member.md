@@ -67,7 +67,7 @@ author_profile: true
 
 TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical expertise with advanced machine learning. Our team of clinicians, biomedical scientists, and AI researchers co-design solutions across medical imaging, genomics, and multi-omics data to enable precise diagnosis, prognosis, and personalized treatment. We aim to translate AI innovations from research into real-world healthcare impact.
 
-## Director
+## Principal Investigator (PI)
 
 <div class="pi-name">Le Nguyen Quoc Khanh PhD</div>
 
