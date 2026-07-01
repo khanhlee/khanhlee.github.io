@@ -5,6 +5,14 @@ permalink: /grant/
 author_profile: true
 ---
 
+### Toward trustworthy large language model-assisted cell type annotation in single-cell RNA sequencing [Principal Investigator]
+* Funded by: National Science and Technology Council (NSTC), Taiwan
+* Time: August 2026 - July 2029
+
+### Artificial Intelligence–Assisted Stool Phenotyping and Gut Biomarkers for Predicting Sleep Disturbances in Children with Constipation Spectrum Disorders: An Integrative Multimodal Study [Co-Investigator]
+* Funded by: National Science and Technology Council (NSTC), Taiwan
+* Time: August 2026 - July 2029
+
 ### Foundation Models in Action: Transforming Protein-Ligand Interaction Predictions for Drug Design [Principal Investigator]
 * Funded by: National Science and Technology Council (NSTC), Taiwan
 * Time: August 2025 - July 2026
