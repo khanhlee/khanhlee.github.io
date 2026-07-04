@@ -24,6 +24,7 @@ redirect_from:
 
 # Academic Services
 * <b>Editorial Services</b>
+  * Editor-in-Chief: [Bio-X](https://www.eivxpub.com/EditorialBoard.html?mjid=6) (since July 2026)
   * Serving as Associate/Academic Editors for: [Journal of Imaging Informatics in Medicine](https://link.springer.com/journal/10278/editorial-board) (since March 2026), [JMIRx Med](https://xmed.jmir.org/) (since February 2025), [Science Progress](https://journals.sagepub.com/home/SCI) (since January 2025), [Societal Impacts](https://www.sciencedirect.com/journal/societal-impacts) (since Jun 2023), [BMC Genomics](https://bmcgenomics.biomedcentral.com/) (since September, 2022), [iMeta](https://onlinelibrary.wiley.com/journal/2770596x) (since September, 2022), [Health Science Reports](https://onlinelibrary.wiley.com/journal/23988835) (since April, 2022), [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) (since October, 2021), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/) (since July, 2020)
 * <b>Sesson Chair</b>
   * 8th International Conference on Sensors, Signal and Image Processing (SSIP 2025), 28–30 Nov, 2025, Kobe, Japan.
