@@ -58,7 +58,21 @@ author_profile: true
 
 @media (max-width: 520px) {
   .member-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px 14px;
+  }
+
+  .member-card img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .member-name {
+    font-size: 0.95em;
+  }
+
+  .member-role {
+    font-size: 0.85em;
   }
 }
 </style>
