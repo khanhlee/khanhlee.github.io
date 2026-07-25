@@ -13,14 +13,14 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
+* July 23, 2026. Congratulations to <b>Kha Quang Hien</b> on successfully defending his PhD's dissertation and earning his Ph.D. degree.
+* July 20, 2026. Congratulations to <b>Bui Xuan Lam</b> on successfully defending her master's dissertation and earning her M.S. degree.
+* July 20, 2026. Our paper [Robust Prediction of Drug Interactions using Chemical Descriptors](https://doi.org/10.1038/s41746-026-03025-2) has been published in <i>npj Digital Medicine</i>.
+* July 17, 2026. Congratulations to <b>Nguyen Thanh Huy</b> on successfully defending his PhD's dissertation and earning his Ph.D. degree.
 * July 15, 2026. Congratulations to <b>Nguyen Ky Phat</b> on successfully defending his master's dissertation and earning his M.S. degree.
 * July 02, 2026. Our paper [3DICE: Interpretable 3D Cross-Modal Learning for Drug–Target Interaction Prediction and Large-Scale Drug Discovery](https://doi.org/10.1093/bioinformatics/btag488) has been published in <i>Bioinformatics</i>.
 * June 12, 2026. Our paper [Bayesian Hyperparameter Optimization Improves scGPT Fine-Tuning for Single-Cell Multi-Omics Integration](https://doi.org/10.1093/bioinformatics/btag374) has been published in <i>Bioinformatics</i>.
 * May 12, 2026. Our paper [RIMGOGraph: integrating AlphaFold-derived residue interaction graphs and protein language embeddings for structure-informed protein function prediction](https://doi.org/10.1016/j.ijbiomac.2026.152509) has been published in <i>International Journal of Biological Macromolecules</i>.
-* May 11, 2026. Our paper [Toward trustworthy artificial intelligence in multi-omics: a review of reproducibility, stability, and interpretability](https://doi.org/10.1093/bib/bbag227) has been published in <i>Briefings in Bioinformatics</i>.
-* March 11, 2026. Our paper [A CT radiomics signature enables risk stratification and survival prediction in colorectal liver metastases](https://doi.org/10.1088/1361-6560/ae4c14) has been published in <i>Physics in Medicine & Biology</i>.
-* February 16, 2026. Our paper [EPINTLM: enhancer–promoter prediction with pretrained k-mer embeddings and residual cross-attention](https://doi.org/10.1093/bib/bbag064) has been published in <i>Briefings in Bioinformatics</i>.
-* February 12, 2026. Our paper [C5aR1 and cGAS/STING, and their possible involvement in radiosensitivity of colorectal cancer](https://doi.org/10.1016/j.isci.2026.115009) has been published in <i>iScience</i>.
 
 # Academic Services
 * <b>Editorial Services</b>
