@@ -168,12 +168,6 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
   </div>
 
   <div class="member-card">
-    <img src="/images/male.png" alt="Kha Quang Hien MD">
-    <div class="member-name">Kha Quang Hien MD</div>
-    <div class="member-role">PhD student, IGPM (Sep 2022 intake)</div>
-  </div>
-
-  <div class="member-card">
     <img src="/images/tuyen.jpg" alt="Nguyen Thi Tuyen">
     <div class="member-name">Nguyen Thi Tuyen</div>
     <div class="member-role">PhD student, ICTU (Jul 2022 intake)</div>
