@@ -13,7 +13,6 @@ redirect_from:
 * Prior to joining TMU, I was a Research Fellow at the Medical Humanities Research Cluster, School of Humanities, [Nanyang Technological University (NTU)](http://www.ntu.edu.sg), Singapore. I received my MS and PhD degree in the Department of Computer Science and Engineering, Graduate Program in Biomedical Informatics, [Yuan Ze University (YZU)](https://www.yzu.edu.tw/), Taiwan.
 
 # Recent News
-* July 23, 2026. Congratulations to <b>Kha Quang Hien</b> on successfully defending his PhD's dissertation and earning his Ph.D. degree.
 * July 20, 2026. Congratulations to <b>Bui Xuan Lam</b> on successfully defending her master's dissertation and earning her M.S. degree.
 * July 20, 2026. Our paper [Robust Prediction of Drug Interactions using Chemical Descriptors](https://doi.org/10.1038/s41746-026-03025-2) has been published in <i>npj Digital Medicine</i>.
 * July 17, 2026. Congratulations to <b>Nguyen Thanh Huy</b> on successfully defending his PhD's dissertation and earning his Ph.D. degree.
