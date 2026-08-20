@@ -138,12 +138,6 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
   </div>
 
   <div class="member-card">
-    <img src="/images/xuan_lam.jpg" alt="Bui Xuan Lam MD">
-    <div class="member-name">Bui Xuan Lam MD</div>
-    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
-  </div>
-
-  <div class="member-card">
     <img src="/images/mytrang.jpg" alt="Luong Thi My Trang MD">
     <div class="member-name">Luong Thi My Trang MD</div>
     <div class="member-role">PhD student, IGPM (Sep 2024 intake)</div>
@@ -162,21 +156,9 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
   </div>
 
   <div class="member-card">
-    <img src="/images/phat.jpg" alt="Nguyen Ky Phat">
-    <div class="member-name">Nguyen Ky Phat</div>
-    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
-  </div>
-
-  <div class="member-card">
     <img src="/images/tuyen.jpg" alt="Nguyen Thi Tuyen">
     <div class="member-name">Nguyen Thi Tuyen</div>
     <div class="member-role">PhD student, ICTU (Jul 2022 intake)</div>
-  </div>
-
-  <div class="member-card">
-    <img src="/images/huy.jpg" alt="Nguyen Thanh Huy">
-    <div class="member-name">Nguyen Thanh Huy</div>
-    <div class="member-role">PhD student, IGPM (Sep 2021 intake)</div>
   </div>
 
 </div>
@@ -185,6 +167,24 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 
 <div class="member-grid">
 
+  <div class="member-card">
+    <img src="/images/xuan_lam.jpg" alt="Bui Xuan Lam MD">
+    <div class="member-name">Bui Xuan Lam MD</div>
+    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/huy.jpg" alt="Nguyen Thanh Huy PhD">
+    <div class="member-name">Nguyen Thanh Huy PhD</div>
+    <div class="member-role">PhD student, IGPM (Sep 2021 intake)</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/phat.jpg" alt="Nguyen Ky Phat">
+    <div class="member-name">Nguyen Ky Phat</div>
+    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
+  </div>
+  
   <div class="member-card">
     <img src="/images/xuan.jpg" alt="Tran Thi Xuan PhD">
     <div class="member-name">Tran Thi Xuan PhD</div>
