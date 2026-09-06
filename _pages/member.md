@@ -90,6 +90,12 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 <div class="member-grid">
 
   <div class="member-card">
+    <img src="/images/female.png" alt="Nguyen Phuong Nga MD">
+    <div class="member-name">Nguyen Phuong Nga MD</div>
+    <div class="member-role">PhD student, IGPM (Sep 2026 intake)</div>
+  </div>
+  
+  <div class="member-card">
     <img src="/images/male.png" alt="Tran Dinh Giang">
     <div class="member-name">Tran Dinh Giang</div>
     <div class="member-role">PhD student, ICTU (May 2026 intake)</div>
@@ -299,6 +305,18 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 
 <div class="member-grid">
 
+  <div class="member-card">
+    <img src="/images/female.png" alt="Le Thanh Hien MD">
+    <div class="member-name">Le Thanh Hien MD</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/male.png" alt="Truong Nguyen Trong Nhan MD">
+    <div class="member-name">Truong Nguyen Trong Nhan MD</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
   <div class="member-card">
     <img src="/images/female.png" alt="Tran Thi Kim Tien">
     <div class="member-name">Tran Thi Kim Tien</div>
