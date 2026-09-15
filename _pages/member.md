@@ -318,6 +318,12 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 <div class="member-grid">
 
   <div class="member-card">
+    <img src="/images/female.png" alt="Dang Thi Thanh Thuy MD">
+    <div class="member-name">Dang Thi Thanh Thuy MD</div>
+    <div class="member-role">TEEP 2026</div>
+  </div>
+  
+  <div class="member-card">
     <img src="/images/female.png" alt="Le Thanh Hien MD">
     <div class="member-name">Le Thanh Hien MD</div>
     <div class="member-role">TEEP 2026</div>
