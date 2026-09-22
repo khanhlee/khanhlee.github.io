@@ -138,12 +138,6 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
   </div>
 
   <div class="member-card">
-    <img src="/images/male.png" alt="Nguyen Tan Dat MD">
-    <div class="member-name">Nguyen Tan Dat MD</div>
-    <div class="member-role">PhD student, IGPM (Sep 2025 intake)</div>
-  </div>
-
-  <div class="member-card">
     <img src="/images/thu.jpg" alt="Phung Minh Thu MD">
     <div class="member-name">Phung Minh Thu MD</div>
     <div class="member-role">Master student, IGPM (Sep 2025 intake)</div>
