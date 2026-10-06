@@ -313,7 +313,7 @@ TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical 
 
 </div>
 
-## Internship students
+## Research Interns
 
 <div class="member-grid">
 
