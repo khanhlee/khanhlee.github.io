@@ -77,9 +77,9 @@ author_profile: true
 }
 </style>
 
-# TMU AIBioMed Lab
+# Our Team
 
-TMU AIBioMed Lab develops clinically grounded AI systems by integrating medical expertise with advanced machine learning. Our team of clinicians, biomedical scientists, and AI researchers co-design solutions across medical imaging, genomics, and multi-omics data to enable precise diagnosis, prognosis, and personalized treatment. We aim to translate AI innovations from research into real-world healthcare impact.
+AIBioMed Lab brings together researchers, clinicians, and students from diverse backgrounds in artificial intelligence, bioinformatics, biomedical sciences, and medicine. We foster interdisciplinary collaboration to advance computational methods and AI-driven biomedical research.
 
 ## Principal Investigator (PI)
 
