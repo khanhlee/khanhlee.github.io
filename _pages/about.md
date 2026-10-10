@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "AIBioMed Lab at Taipei Medical University develops artificial intelligence and computational methods for biomedical discovery and precision medicine."
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # AIBioMed Lab
 
 ### Artificial Intelligence for Biomedicine
