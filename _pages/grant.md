@@ -5,9 +5,14 @@ permalink: /grant/
 author_profile: true
 ---
 
-### Toward trustworthy large language model-assisted cell type annotation in single-cell RNA sequencing [Principal Investigator]
+Research at TMU AIBioMed Lab is supported by competitive research grants and institutional funding from the National Science and Technology Council (NSTC), Ministry of Education (MOE), National Health Research Institutes (NHRI), Taipei Medical University (TMU), and collaborating institutions.
+
+The following projects highlight our research activities in artificial intelligence, bioinformatics, computational biology, medical imaging, genomics, and interdisciplinary biomedical research:
+
+### Toward trustworthy large language model-assisted cell type annotation in single-cell RNA sequencing
+* **Principal Investigator** | August 2026 - July 2029
 * Funded by: National Science and Technology Council (NSTC), Taiwan
-* Time: August 2026 - July 2029
+
 
 ### Artificial Intelligence–Assisted Stool Phenotyping and Gut Biomarkers for Predicting Sleep Disturbances in Children with Constipation Spectrum Disorders: An Integrative Multimodal Study [Co-Investigator]
 * Funded by: National Science and Technology Council (NSTC), Taiwan
