@@ -10,7 +10,7 @@ Research at TMU AIBioMed Lab is supported by competitive research grants and ins
 The following projects highlight our research activities in artificial intelligence, bioinformatics, computational biology, medical imaging, genomics, and interdisciplinary biomedical research:
 
 ### Toward trustworthy large language model-assisted cell type annotation in single-cell RNA sequencing
-* **Principal Investigator** | August 2026 - July 2029
+* **Principal Investigator** \| August 2026 - July 2029
 * Funded by: National Science and Technology Council (NSTC), Taiwan
 
 
