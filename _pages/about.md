@@ -14,7 +14,7 @@ redirect_from:
 
 **Advancing Biomedical Discovery and Precision Medicine Through Artificial Intelligence**
 
-The **Artificial Intelligence for Biomedicine (AIBioMed) Lab**, led by **Dr. Nguyen Quoc Khanh Le** at [Taipei Medical University (TMU)](https://www.tmu.edu.tw/), Taiwan, develops innovative artificial intelligence and computational approaches to address challenging problems in biomedical research and healthcare.
+The **Artificial Intelligence for Biomedicine (AIBioMed) Lab**, led by **Dr. Le Nguyen Quoc Khanh** at [Taipei Medical University (TMU)](https://www.tmu.edu.tw/), Taiwan, develops innovative artificial intelligence and computational approaches to address challenging problems in biomedical research and healthcare.
 
 Our research integrates **machine learning, deep learning, foundation models, bioinformatics, and computational biology**, with applications spanning genomics, multi-omics, medical imaging, molecular interactions, and precision medicine.
 
@@ -28,39 +28,19 @@ Our research focuses on four interconnected directions.
 
 ### Biomedical Foundation Models
 
-We develop and evaluate advanced AI models for biological sequences, molecular structures, and biomedical data, including:
+Developing foundation models and multimodal AI for biological sequences, molecular interactions, and computational drug discovery.
 
-- DNA, RNA, and protein language models
-- Drug–target and drug–drug interaction prediction
-- Molecular representation learning and multimodal integration
-- Foundation models for computational drug discovery
+### Genomics and Multi-omics
 
-### AI for Genomics and Multi-omics
-
-We develop computational methods to understand complex biological systems and disease mechanisms through:
-
-- Cancer genomics and computational oncology
-- Single-cell RNA sequencing and cell-type annotation
-- Spatial transcriptomics and tumor microenvironment analysis
-- Multi-omics integration and biomarker discovery
+Applying AI to cancer genomics, single-cell and spatial transcriptomics, and multi-omics integration to uncover disease mechanisms.
 
 ### AI for Medical Imaging
 
-We investigate deep learning and foundation models for medical image analysis and clinically relevant applications, including:
+Developing deep learning and multimodal approaches for medical image analysis, disease diagnosis, prognosis, and clinical decision support.
 
-- Digital pathology and histopathological image analysis
-- Radiology and medical image interpretation
-- Multimodal integration of imaging and clinical information
-- AI-assisted diagnosis, prognosis, and outcome prediction
+### Trustworthy Biomedical AI
 
-### Trustworthy and Explainable Biomedical AI
-
-We investigate methodological challenges affecting the reliability and practical adoption of biomedical AI, including:
-
-- Explainable and interpretable machine learning
-- Robustness, generalization, and external validation
-- Reliability assessment of biomedical foundation models and large language models
-- Reproducibility, benchmarking, and rigorous model evaluation
+Advancing interpretable, robust, and reproducible AI through rigorous evaluation, explainability, and external validation.
 
 ---
 
@@ -134,13 +114,13 @@ Applicants from computer science, engineering, medicine, biomedical sciences, an
 
 Prospective applicants are welcome to contact the Principal Investigator with a CV, a brief statement of research interests, and their expected starting date.
 
-**[Meet Our Team](/member/) | [Explore Our Research](/research/)**
+**[Meet Our Team](/member/) \| [Explore Our Research](/research/)**
 
 ---
 
 ## About the Principal Investigator
 
-**Dr. Nguyen Quoc Khanh Le** is an Associate Professor in the College of Medicine at Taipei Medical University, Taiwan, and leads the AIBioMed Lab.
+**Dr. Le Nguyen Quoc Khanh** is an Associate Professor in the College of Medicine at Taipei Medical University, Taiwan, and leads the AIBioMed Lab.
 
 He is affiliated with the In-Service Master Program in Artificial Intelligence in Medicine, the International Master/Ph.D. Program in Medicine, the International Ph.D. Program for Cell Therapy and Regeneration Medicine, and the TMU Research Center for Artificial Intelligence in Medicine.
 
@@ -148,4 +128,4 @@ Before joining TMU, he was a Research Fellow at Nanyang Technological University
 
 His research focuses on artificial intelligence, bioinformatics, computational biology, and biomedical applications of machine learning.
 
-**[View Academic CV](/cv/) | [Publications](/publications/)**
+**[View Academic CV](/cv/) \| [Publications](/publications/)**
