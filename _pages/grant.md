@@ -30,7 +30,7 @@ The following projects highlight our research activities in artificial intellige
 * Funded by: National Science and Technology Council (NSTC), Taiwan
 
 ### Towards interpretable genotyping of non-small cell lung cancer: an explainable AI approach leveraging CT-based radiomics
-* **Principal Investigator** |\ January 2023 - December 2024
+* **Principal Investigator** \| January 2023 - December 2024
 * Funded by: Higher Education Sprout Project, Ministry of Education (MOE), Taiwan
 
 ### The Development and Validation of a Prediction Algorithm for First-Onset and Recurrence of Major Depression in General Population: A Genetic, Epigenetic and Drug Repurposing Approach
