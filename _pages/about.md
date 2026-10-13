@@ -26,21 +26,10 @@ We aim to develop **reliable, interpretable, and generalizable AI methods** that
 
 Our research focuses on four interconnected directions.
 
-### Biomedical Foundation Models
-
-Developing foundation models and multimodal AI for biological sequences, molecular interactions, and computational drug discovery.
-
-### Genomics and Multi-omics
-
-Applying AI to cancer genomics, single-cell and spatial transcriptomics, and multi-omics integration to uncover disease mechanisms.
-
-### AI for Medical Imaging
-
-Developing deep learning and multimodal approaches for medical image analysis, disease diagnosis, prognosis, and clinical decision support.
-
-### Trustworthy Biomedical AI
-
-Advancing interpretable, robust, and reproducible AI through rigorous evaluation, explainability, and external validation.
+| | |
+|:---|:---|
+| **Biomedical Foundation Models**<br>Foundation models and multimodal AI for biological sequences, molecular interactions, and drug discovery. | **Genomics and Multi-omics**<br>AI for cancer genomics, single-cell and spatial transcriptomics, and multi-omics integration. |
+| **AI for Medical Imaging**<br>Deep learning and multimodal AI for medical image analysis, diagnosis, and prognosis. | **Trustworthy Biomedical AI**<br>Interpretable, robust, and reproducible AI through rigorous evaluation and external validation. |
 
 ---
 
