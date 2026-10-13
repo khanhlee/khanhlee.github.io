@@ -10,10 +10,6 @@ redirect_from:
 
 # AIBioMed Lab
 
-### Artificial Intelligence for Biomedicine
-
-**Advancing Biomedical Discovery and Precision Medicine Through Artificial Intelligence**
-
 The **Artificial Intelligence for Biomedicine (AIBioMed) Lab**, led by **Dr. Le Nguyen Quoc Khanh** at [Taipei Medical University (TMU)](https://www.tmu.edu.tw/), Taiwan, develops innovative artificial intelligence and computational approaches to address challenging problems in biomedical research and healthcare.
 
 Our research integrates **machine learning, deep learning, foundation models, bioinformatics, and computational biology**, with applications spanning genomics, multi-omics, medical imaging, molecular interactions, and precision medicine.
