@@ -324,7 +324,7 @@ AIBioMed Lab brings together researchers, clinicians, and students from diverse 
   </div>
   
   <div class="member-card">
-    <img src="/images/female.png" alt="Dang Thi Thanh Thuy MD">
+    <img src="/images/thuy.jpg" alt="Dang Thi Thanh Thuy MD">
     <div class="member-name">Dang Thi Thanh Thuy MD</div>
     <div class="member-role">TEEP 2026</div>
   </div>
