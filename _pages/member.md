@@ -87,7 +87,6 @@ AIBioMed Lab brings together researchers, clinicians, and students from diverse 
 <div class="member-grid">
   <div class="member-card">
     <img src="/images/pic300.jpg" alt="Le Nguyen Quoc Khanh PhD">
-    <div class="member-name">Le Nguyen Quoc Khanh PhD</div>
   </div>
 </div>
 
