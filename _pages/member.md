@@ -193,19 +193,19 @@ AIBioMed Lab brings together researchers, clinicians, and students from diverse 
   <div class="member-card">
     <img src="/images/xuan_lam.jpg" alt="Bui Xuan Lam MD">
     <div class="member-name">Bui Xuan Lam MD</div>
-    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
+    <div class="member-role">Master student, IGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
     <img src="/images/huy.jpg" alt="Nguyen Thanh Huy PhD">
     <div class="member-name">Nguyen Thanh Huy PhD</div>
-    <div class="member-role">PhD student, IGPM (Sep 2021 intake)</div>
+    <div class="member-role">PhD student, IGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
     <img src="/images/phat.jpg" alt="Nguyen Ky Phat">
     <div class="member-name">Nguyen Ky Phat</div>
-    <div class="member-role">Master student, IGPM (Sep 2024 intake)</div>
+    <div class="member-role">Master student, IGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
