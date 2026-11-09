@@ -178,12 +178,6 @@ AIBioMed Lab brings together researchers, clinicians, and students from diverse 
     <div class="member-role">PhD student, DENTAL (Sep 2024 intake)</div>
   </div>
 
-  <div class="member-card">
-    <img src="/images/tuyen.jpg" alt="Nguyen Thi Tuyen">
-    <div class="member-name">Nguyen Thi Tuyen</div>
-    <div class="member-role">PhD student, ICTU (Jul 2022 intake)</div>
-  </div>
-
 </div>
 
 ## Alumni
@@ -191,21 +185,27 @@ AIBioMed Lab brings together researchers, clinicians, and students from diverse 
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="/images/xuan_lam.jpg" alt="Bui Xuan Lam MD">
-    <div class="member-name">Bui Xuan Lam MD</div>
-    <div class="member-role">Master student, IGPM (graduated in 2026)</div>
+    <img src="/images/tuyen.jpg" alt="Nguyen Thi Tuyen PhD">
+    <div class="member-name">Nguyen Thi Tuyen PhD</div>
+    <div class="member-role">ICTU (graduated in 2026)</div>
+  </div>
+  
+  <div class="member-card">
+    <img src="/images/xuan_lam.jpg" alt="Bui Xuan Lam MD MS">
+    <div class="member-name">Bui Xuan Lam MD MS</div>
+    <div class="member-role">IGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
     <img src="/images/huy.jpg" alt="Nguyen Thanh Huy PhD">
     <div class="member-name">Nguyen Thanh Huy PhD</div>
-    <div class="member-role">PhD student, IGPM (graduated in 2026)</div>
+    <div class="member-role">PIGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
-    <img src="/images/phat.jpg" alt="Nguyen Ky Phat">
-    <div class="member-name">Nguyen Ky Phat</div>
-    <div class="member-role">Master student, IGPM (graduated in 2026)</div>
+    <img src="/images/phat.jpg" alt="Nguyen Ky Phat MS">
+    <div class="member-name">Nguyen Ky Phat MS</div>
+    <div class="member-role">IGPM (graduated in 2026)</div>
   </div>
   
   <div class="member-card">
